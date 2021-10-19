@@ -33,16 +33,31 @@ components. This implies an ability to recognize and describe:
 __Course content:__
 
 * Introduction to systems: Example Systems- Operating Systems-Distributed File SystemsDatabases-Web Frameworks-Networks 
+Twitter, Uber
+Common Mistakes, Systematic Approach, 
 
 * Systems design intro: Setting goals for your system-Principles of good design
+Performance Vs Scalability
+Latency vs Thruput
+CAP Theorem (Availability vs Consistency)
+Cost 
 
 * Modeling Fundamentals: Quantitative Systems Design-Queuing Systems-Fundamental Laws and Applications-Asymptotic Bounds
 
+
 * Naming Schemes: Unix File System-Git-Network Naming
+DNS, API Gateways, Zookeeper
+
 
 * Caching: CPU Caching-CDN Caching
+Why CDN? Why Caching? Eviction Policies, Redis Intro, Design problems on CDNs
 
 * Resource Management: Scheduling-Load Balancing-TCP throughput Model
+Load Balancing: Algorithms, Reverse Proxy
+WebSockets, Microservices Architecture vs Monoliths, OAUTH 2.0, Design Problems
+Hashing, Consistent Hashing, 
+Indexing, Data Partitioning, Sharding, Replication, Data Modeling Questions,
+Push vs Pull systems, 
 
 * Other Topics: Virtualization-Security and Access Control-Reliability Models
 
@@ -57,6 +72,9 @@ of the textbook is available on MIT OpenCourseWare.
 3. E. D. Lazowska, J. Zahorjan, G. S. Graham, K. C. Sevcik, 1984, Quantitative System Performance, Prentice Hall.
 
 4. L. Kleinrock, 1975. Queueing Systems Volume I: Theory, Wiley Interscience. 5. Mor Harchol-Balter, February 2013, Performance Modeling and Design of Computer Systems: Queueing Theory in Action, Cambridge University Press
+
+
+
 
 __Similar courses available in other institute(s) / MOOC portals:__
 
