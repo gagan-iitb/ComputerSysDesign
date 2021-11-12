@@ -1,5 +1,5 @@
 Real life applications are complex and involve a variety of components (multiple clients, backend servers, databases, all connected by a network). We want our applications to be scalable, reliable
-and performant? How do we go from the idea to the design to its implementation and successful operationalization?
+and performant. How do we go from the idea to the design to its implementation and successful operationalization?
 
 This course is an attempt to teach the basic principles underlying system design, implementation, and evaluation of computer systems. It provides an introduction to the state-of-the-art analytic
 modelling techniques that are used in computer system design. Students will also learn general systems concepts that support design goals of modularity, performance, and security. Students
