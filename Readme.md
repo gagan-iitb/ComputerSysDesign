@@ -1,9 +1,6 @@
-Real life applications are complex and involve a variety of components (multiple clients, backend servers, databases, all connected by a network). We want our applications to be scalable, reliable
-and performant. How do we go from the idea to the design to its implementation and successful operationalization?
+Real life applications are complex and involve a variety of components (multiple clients, backend servers, databases, all connected by a network). We want our applications to be scalable, reliable and performant. How do we go from the idea to the design to its implementation and successful operationalization?
 
-This course is an attempt to teach the basic principles underlying system design, implementation, and evaluation of computer systems. It provides an introduction to the state-of-the-art analytic
-modelling techniques that are used in computer system design. Students will also learn general systems concepts that support design goals of modularity, performance, and security. Students
-will apply materials learned in lectures and readings to design, build and evaluate new systems components.
+This course is an attempt to teach the basic principles underlying system design, implementation, and evaluation of computer systems. It provides an introduction to the state-of-the-art analytic modelling techniques that are used in computer system design. Students will also learn general systems concepts that support design goals of modularity, performance, and security. Students will apply materials learned in lectures and readings to design, build and evaluate new systems components.
 
 __Objectives:__
 
@@ -29,37 +26,69 @@ components. This implies an ability to recognize and describe:
 • Common pitfalls in the security of computer systems, and how to combat them.
 
 
-
 __Course content:__
 
-* Introduction to systems: Example Systems- Operating Systems-Distributed File SystemsDatabases-Web Frameworks-Networks 
-Twitter, Uber
-Common Mistakes, Systematic Approach, 
-
-* Systems design intro: Setting goals for your system-Principles of good design
-Performance Vs Scalability
-Latency vs Thruput
-CAP Theorem (Availability vs Consistency)
-Cost 
-
+* Introduction to systems: Example Systems- Operating Systems-Distributed File Systems-Databases-Web Frameworks-Networks 
+* Case Studies: Twitter, Uber
+* Rules of Thumb: Common Mistakes, Systematic Approach, 
+* Systems design intro: Setting goals for your system-Principles of good design; 
+* Performance Vs Scalability; Latency vs Thruput; CAP Theorem (Availability vs Consistency); Cost 
 * Modeling Fundamentals: Quantitative Systems Design-Queuing Systems-Fundamental Laws and Applications-Asymptotic Bounds
-
-
 * Naming Schemes: Unix File System-Git-Network Naming
-DNS, API Gateways, Zookeeper
-
-
+* DNS, API Gateways, Zookeeper
 * Caching: CPU Caching-CDN Caching
-Why CDN? Why Caching? Eviction Policies, Redis Intro, Design problems on CDNs
-
+* Why CDN? Why Caching? Eviction Policies, Redis Intro, Design problems on CDNs
 * Resource Management: Scheduling-Load Balancing-TCP throughput Model
-Load Balancing: Algorithms, Reverse Proxy
-WebSockets, Microservices Architecture vs Monoliths, OAUTH 2.0, Design Problems
-Hashing, Consistent Hashing, 
-Indexing, Data Partitioning, Sharding, Replication, Data Modeling Questions,
-Push vs Pull systems, 
-
+* Load Balancing: Algorithms, Reverse Proxy
+* WebSockets, Microservices Architecture vs Monoliths, OAUTH 2.0, Design Problems
+* Hashing, Consistent Hashing, 
+* Indexing, Data Partitioning, Sharding, Replication, Data Modeling Questions,
+* Push vs Pull systems, 
 * Other Topics: Virtualization-Security and Access Control-Reliability Models
+
+__Detailed Schedule__
+
+|#| Week| Topics planned in this week | Text Book Reference |
+| --- | ------------| ----------- | -------- |
+|1| Dec 27 | Introduction to Systems Design, Example Systems  | |
+|1| Dec 27 | Lab: Introduction to AWS, EC2, S3, DynamoDB  | |
+|2| Jan 3 | Key services in AWS, System Design Introduction, Rules of Thumb  | |
+|2| Jan 3 | Case Studies: Architecture of Several Large Applications, MapReduce | |
+|3| Jan 10| Operational Laws: Little's Law, response-time law, asymptotic bounds, modification analysis, performance metrics||
+|3| Jan 10| Lab: Simulations: time averages versus ensemble averages, generating random variables for simulation, Inspection Paradox.||
+|3| Jan 10| Case Studies: Architecture of Several Large Applications  ||
+|4| Jan 17| Distributed Systems, Latency, RPC, Models of Distributed Systems: Failures, Attacks ||
+|4| Jan 17| Lab: RPC ||
+|5| Jan 24| Queueing Theory: open systems, closed systems, M/M/1, M/M/k, M/G/1 analysis ||
+|5| Jan 24| Lab:  ||
+|6| Jan 31|  ||
+|6| Jan 31| __Project: __ ||
+|6| Feb 3| __Tierce 1 Exam__||
+|7| Feb 7| Naming: DNS,       ||
+|7| Feb 7| Lab: NFS ||
+|8| Feb 14| Modeling Empirical Workloads: heavy-tailed property, Pareto distributions, heavy-tailed distributions, understanding variability and tail behavior||
+|8| Feb 14| Lab: ||
+|8| Feb 14| Case Studies:  ||
+|9| Feb 21|  ||
+|9| Feb 21| Lab: | |
+|10| Feb 28| Management of Server Farms: capacity provisioning, dynamic power management, routing policies||
+|10| Feb 28| Lab:     |    |
+|11| Mar 7|  ||
+|11| Mar 7| __Project: __| |
+|12| Mar 12-20|__Mid Sem Break__||
+|12| Mar 21| __Tierce 2 Exam__||
+|13| Apr 4 |  ||
+|13| Apr 4| Lab: ||
+|14| Apr 11| ||
+|14| Apr 11| Lab:  ||
+|14| Apr 11| Case Studies:   ||
+|15| Apr 18|  ||
+|15| Apr 18 | Lab:   ||
+|15| Apr 25|  | |
+|16| Apr 25| Lab:  ||
+|17 |Apr 25 |__Major Project: Complete a major data analysis course project__  ||
+
+
 
 
 __Textbook/Reference books:__
