@@ -64,29 +64,29 @@ __Detailed Schedule__
 |6| Jan 31|  ||
 |6| Jan 31| __Project: __ ||
 |6| Feb 3| __Tierce 1 Exam__||
-|7| Feb 7| Naming: DNS,       ||
+|7| Feb 7| Naming: DNS, API Gateways, Zookeeper     ||
 |7| Feb 7| Lab: NFS ||
 |8| Feb 14| Modeling Empirical Workloads: heavy-tailed property, Pareto distributions, heavy-tailed distributions, understanding variability and tail behavior||
 |8| Feb 14| Lab: ||
 |8| Feb 14| Case Studies:  ||
-|9| Feb 21|  ||
-|9| Feb 21| Lab: | |
+|9| Feb 21| Caching: CPU Caching, CDN Caching, Eviction Policies,  ||
+|9| Feb 21| Lab: Redis Intro, Design problems on CDNs | |
 |10| Feb 28| Management of Server Farms: capacity provisioning, dynamic power management, routing policies||
-|10| Feb 28| Lab:     |    |
-|11| Mar 7|  ||
+|10| Feb 28| Lab:    |    |
+|11| Mar 7| Resource Management: Scheduling-Load Balancing-TCP throughput Model,  Load Balancing: Algorithms, Reverse Proxy ||
 |11| Mar 7| __Project: __| |
 |12| Mar 12-20|__Mid Sem Break__||
 |12| Mar 21| __Tierce 2 Exam__||
-|13| Apr 4 |  ||
+|13| Apr 4 | WebSockets, Microservices Architecture vs Monoliths, OAUTH 2.0, Design Problems ||
 |13| Apr 4| Lab: ||
-|14| Apr 11| ||
+|14| Apr 11| Hashing, Consistent Hashing, Indexing, Data Partitioning, Sharding, Replication, Data Modeling Questions, ||
 |14| Apr 11| Lab:  ||
 |14| Apr 11| Case Studies:   ||
-|15| Apr 18|  ||
+|15| Apr 18| Push vs Pull systems,  ||
 |15| Apr 18 | Lab:   ||
-|15| Apr 25|  | |
+|15| Apr 25| Other Topics: Virtualization-Security and Access Control-Reliability Models | |
 |16| Apr 25| Lab:  ||
-|17 |Apr 25 |__Major Project: Complete a major data analysis course project__  ||
+|17 |Apr 25 |__Major Project: Complete a major system design course project__  ||
 
 
 
