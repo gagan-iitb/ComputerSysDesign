@@ -46,45 +46,49 @@ __Course content:__
 * Push vs Pull systems, 
 * Other Topics: Virtualization-Security and Access Control-Reliability Models
 
+
 __Detailed Schedule__
+Legend:
+ ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Theory
+ ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Labs
 
 |#| Week| Topics planned in this week | Text Book Reference |
 | --- | ------------| ----------- | -------- |
-|1| Dec 27 | Introduction to Systems Design; Goals of Systems;<br/> Example Systems: Web, Hadoop/Spark    | |
+|1| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Dec27 | Introduction to Systems Design; Goals of Systems;<br/> Example Systems: Web, Hadoop/Spark    | |
 |1| Dec 27 | Lab: Introduction to AWS: EC2, S3, DynamoDB, ELB, Kinesis | |
-|2| Jan 3 | Key components in building systems (e.g. AWS services); <br/>System Design Principles: Rules of Thumb, Common Pitfalls in Systems Design; Correctness/Consistency; <br/>Key Metrics: Throughput, Latency, Availability, Jitter/Lags| |
+|2| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan3 | Key components in building systems (e.g. AWS services); <br/>System Design Principles: Rules of Thumb, Common Pitfalls in Systems Design; Correctness/Consistency; <br/>Key Metrics: Throughput, Latency, Availability, Jitter/Lags| |
 |2| Jan 3 | Case Studies: Architecture of Several Large Applications such as Google Maps, AirBnB, Uber,  DropBox | |
-|3| Jan 10| Operational Laws: Little's Law, response-time law, asymptotic bounds, modification analysis, performance metrics, open systems, closed systems||
+|3| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan10| Operational Laws: Little's Law, response-time law, asymptotic bounds, modification analysis, performance metrics, open systems, closed systems||
 |3| Jan 10| Lab: Simulations: time averages versus ensemble averages, generating random variables for simulation, Inspection Paradox.||
 |3| Jan 10| Case Studies: Architecture of Several Large Applications such as Instagram, Messenger, Twitter, Web Crawler, Ticketing Engine ||
-|4| Jan 17| Scalability; Models of Distributed Systems: Failures, Attacks ||
+|4| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan17| Scalability; Models of Distributed Systems: Failures, Attacks ||
 |4| Jan 17| Lab: Failure Testing, Injecting failures in your application ||
-|5| Jan 24| System Design Patterns for Fault Tolerance and High Availability||
+|5| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan24| System Design Patterns for Fault Tolerance and High Availability||
 |5| Jan 24| Lab: System design patterns ||
-|6| Jan 31| Load Balancing; Time, Clocks, Ordering, Consensus  ||
+|6| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan31| Load Balancing; Time, Clocks, Ordering, Consensus  ||
 |6| Jan 31| __Project: Building a Fault-Tolerant and Available Web Application __ ||
 |6| Feb 3| __Tierce 1 Exam__||
-|7| Feb 7| Naming: DNS, API Gateways, Distributed File Systems, Zookeeper      ||
+|7| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb7| Naming: DNS, API Gateways, Distributed File Systems, Zookeeper      ||
 |7| Feb 7| Lab: NFS ||
-|8| Feb 14| Databases:  Relational, Key-Value, Document, Graph||
+|8| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb14| Databases:  Relational, Key-Value, Document, Graph||
 |8| Feb 14| Lab: No-SQL Databases||
 |8| Feb 14| Case Studies: Databases, E-Commerce, Web-Farms  ||
-|9| Feb 21| Modeling Empirical Workloads: Pareto distributions, heavy-tailed distributions, understanding variability and tail behavior,<br/> Important results from Queueing Theory: M/M/1, M/M/k, M/G/1 analysis  ||
+|9| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb21| Modeling Empirical Workloads: Pareto distributions, heavy-tailed distributions, understanding variability and tail behavior,<br/> Important results from Queueing Theory: M/M/1, M/M/k, M/G/1 analysis  ||
 |9| Feb 21| Lab: Redis Database Intro,  | |
-|10| Feb 28| Management of Server Farms: capacity provisioning, dynamic power management, routing policies||
+|10| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb28| Management of Server Farms: capacity provisioning, dynamic power management, routing policies||
 |10| Feb 28| Lab: Performance Testing   |    |
-|11| Mar 7| Resource Management: Scheduling-Load Balancing-TCP throughput Model,  <br/> Load Balancing: Algorithms, Reverse Proxy ; <br/> Hashing, Consistent Hashing, Indexing, Data Partitioning, Sharding, Replication, Data Modeling Questions||
+|11| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Mar7| Resource Management: Scheduling-Load Balancing-TCP throughput Model,  <br/> Load Balancing: Algorithms, Reverse Proxy ; <br/> Hashing, Consistent Hashing, Indexing, Data Partitioning, Sharding, Replication, Data Modeling Questions||
 |11| Mar 7| __Project: Making your application Scalable and High-Performance__| |
 |12| Mar 12-20|__Mid Sem Break__||
 |12| Mar 21| __Tierce 2 Exam__||
-|13| Apr 4 | WebSockets, Microservices Architecture vs Monoliths, OAUTH 2.0, Design Problems ||
-|13| Apr 4| Lab: Designing applications ||
-|14| Apr 11| Caching, CDNs ||
+|13| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr4 | WebSockets, Microservices Architecture vs Monoliths, OAUTH 2.0, Design Problems ||
+|13|  Apr4| Lab: Designing applications ||
+|14| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr11| Caching, CDNs ||
 |14| Apr 11| Lab: Design problems on CDNs ||
 |14| Apr 11| Case Studies: Akamai  ||
-|15| Apr 18| Message Queues: Push vs Pull systems,  ||
+|15| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr18| Message Queues: Push vs Pull systems,  ||
 |15| Apr 18 | Lab: Kafka   ||
-|15| Apr 25| Other Topics: Virtualization-Security and Access Control-Reliability Models | |
+|15| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr25| Other Topics: Virtualization-Security and Access Control-Reliability Models | |
 |16| Apr 25| Lab: Openstack,  ||
 |17 |Apr 25 |__Major Project: Complete a major system design course project__  ||
 
