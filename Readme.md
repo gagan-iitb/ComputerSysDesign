@@ -52,34 +52,34 @@ __Detailed Schedule__
 | --- | ------------| ----------- | -------- |
 |1| Dec 27 | Introduction to Systems Design; Goals of Systems; Example Systems: Web, Hadoop/Spark    | |
 |1| Dec 27 | Lab: Introduction to AWS: EC2, S3, DynamoDB, ELB, Kinesis | |
-|2| Jan 3 | Key components in building systems (e.g. AWS services); System Design Principles: Rules of Thumb, Common Pitfalls in Systems Design| |
-|2| Jan 3 | Case Studies: Architecture of Several Large Applications such as Google Maps, AirBnB, Uber, Twitter, DropBox | |
+|2| Jan 3 | Key components in building systems (e.g. AWS services); System Design Principles: Rules of Thumb, Common Pitfalls in Systems Design; Correctness/Consistency; Key Metrics: Throughput, Latency, Availability, Jitter/Lags| |
+|2| Jan 3 | Case Studies: Architecture of Several Large Applications such as Google Maps, AirBnB, Uber,  DropBox | |
 |3| Jan 10| Operational Laws: Little's Law, response-time law, asymptotic bounds, modification analysis, performance metrics, open systems, closed systems||
 |3| Jan 10| Lab: Simulations: time averages versus ensemble averages, generating random variables for simulation, Inspection Paradox.||
-|3| Jan 10| Case Studies: Architecture of Several Large Applications  ||
+|3| Jan 10| Case Studies: Architecture of Several Large Applications such as Instagram, Messenger, Twitter, Web Crawler, Ticketing Engine ||
 |4| Jan 17| Scalability; Models of Distributed Systems: Failures, Attacks ||
 |4| Jan 17| Lab: RPC ||
-|5| Jan 24| Fault Tolerance and High Availability||
+|5| Jan 24| System Design Patterns for Fault Tolerance and High Availability||
 |5| Jan 24| Lab:  ||
 |6| Jan 31| Load Balancing; Time, Clocks, Ordering, Consensus  ||
 |6| Jan 31| __Project: __ ||
 |6| Feb 3| __Tierce 1 Exam__||
-|7| Feb 7| Naming: DNS, API Gateways, Zookeeper      ||
+|7| Feb 7| Naming: DNS, API Gateways, Distributed File Systems, Zookeeper      ||
 |7| Feb 7| Lab: NFS ||
-|8| Feb 14| Modeling Empirical Workloads: heavy-tailed property, Pareto distributions, heavy-tailed distributions, understanding variability and tail behavior, Important results from Queueing Theory: M/M/1, M/M/k, M/G/1 analysis||
+|8| Feb 14| Databases:  Relational, Key-Value, Document, Graph||
 |8| Feb 14| Lab: No-SQL Databases||
 |8| Feb 14| Case Studies: Databases, E-Commerce, Web-Farms  ||
-|9| Feb 21| Caching: CPU Caching, CDN Caching, Eviction Policies,  ||
+|9| Feb 21| Modeling Empirical Workloads: heavy-tailed property, Pareto distributions, heavy-tailed distributions, understanding variability and tail behavior, Important results from Queueing Theory: M/M/1, M/M/k, M/G/1 analysis  ||
 |9| Feb 21| Lab: Redis Database Intro, Design problems on CDNs | |
 |10| Feb 28| Management of Server Farms: capacity provisioning, dynamic power management, routing policies||
 |10| Feb 28| Lab:    |    |
-|11| Mar 7| Resource Management: Scheduling-Load Balancing-TCP throughput Model,  Load Balancing: Algorithms, Reverse Proxy ||
+|11| Mar 7| Resource Management: Scheduling-Load Balancing-TCP throughput Model,  Load Balancing: Algorithms, Reverse Proxy ; Hashing, Consistent Hashing, Indexing, Data Partitioning, Sharding, Replication, Data Modeling Questions,||
 |11| Mar 7| __Project: __| |
 |12| Mar 12-20|__Mid Sem Break__||
 |12| Mar 21| __Tierce 2 Exam__||
 |13| Apr 4 | WebSockets, Microservices Architecture vs Monoliths, OAUTH 2.0, Design Problems ||
 |13| Apr 4| Lab: ||
-|14| Apr 11| Hashing, Consistent Hashing, Indexing, Data Partitioning, Sharding, Replication, Data Modeling Questions, ||
+|14| Apr 11|  ||
 |14| Apr 11| Lab:  ||
 |14| Apr 11| Case Studies:   ||
 |15| Apr 18| Message Queues: Push vs Pull systems,  ||
