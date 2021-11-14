@@ -70,7 +70,7 @@ __Detailed Schedule__
 |8| Feb 14| Lab: No-SQL Databases||
 |8| Feb 14| Case Studies: Databases, E-Commerce, Web-Farms  ||
 |9| Feb 21| Modeling Empirical Workloads: heavy-tailed property, Pareto distributions, heavy-tailed distributions, understanding variability and tail behavior, Important results from Queueing Theory: M/M/1, M/M/k, M/G/1 analysis  ||
-|9| Feb 21| Lab: Redis Database Intro, Design problems on CDNs | |
+|9| Feb 21| Lab: Redis Database Intro,  | |
 |10| Feb 28| Management of Server Farms: capacity provisioning, dynamic power management, routing policies||
 |10| Feb 28| Lab:    |    |
 |11| Mar 7| Resource Management: Scheduling-Load Balancing-TCP throughput Model,  Load Balancing: Algorithms, Reverse Proxy ; Hashing, Consistent Hashing, Indexing, Data Partitioning, Sharding, Replication, Data Modeling Questions,||
@@ -78,14 +78,14 @@ __Detailed Schedule__
 |12| Mar 12-20|__Mid Sem Break__||
 |12| Mar 21| __Tierce 2 Exam__||
 |13| Apr 4 | WebSockets, Microservices Architecture vs Monoliths, OAUTH 2.0, Design Problems ||
-|13| Apr 4| Lab: ||
-|14| Apr 11|  ||
-|14| Apr 11| Lab:  ||
-|14| Apr 11| Case Studies:   ||
+|13| Apr 4| Lab: Designing applications ||
+|14| Apr 11| Caching, CDNs ||
+|14| Apr 11| Lab: Design problems on CDNs ||
+|14| Apr 11| Case Studies: Akamai  ||
 |15| Apr 18| Message Queues: Push vs Pull systems,  ||
-|15| Apr 18 | Lab:   ||
+|15| Apr 18 | Lab: Kafka   ||
 |15| Apr 25| Other Topics: Virtualization-Security and Access Control-Reliability Models | |
-|16| Apr 25| Lab:  ||
+|16| Apr 25| Lab: Openstack,  ||
 |17 |Apr 25 |__Major Project: Complete a major system design course project__  ||
 
 
