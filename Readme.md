@@ -86,8 +86,8 @@ Legend:
 |14| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr11| Caching, CDNs ||
 |14| Apr 11| Lab: Design problems on CDNs ||
 |14| Apr 11| Case Studies: Akamai  ||
-|15| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr18| Message Queues: Push vs Pull systems,  ||
-|15| Apr 18 | Lab: Kafka   ||
+|15| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr18| Message Queues: Push vs Pull systems; Distributed Ledgers: BlockChain ||
+|15| Apr 18 | Lab: Kafka, BitCoin  ||
 |15| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr25| Other Topics: Virtualization-Security and Access Control-Reliability Models | |
 |16| Apr 25| Lab: Openstack,  ||
 |17 |Apr 25 |__Major Project: Complete a major system design course project__  ||
