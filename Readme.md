@@ -50,9 +50,9 @@ __Detailed Schedule__
 
 |#| Week| Topics planned in this week | Text Book Reference |
 | --- | ------------| ----------- | -------- |
-|1| Dec 27 | Introduction to Systems Design; Goals of Systems; Example Systems: Web, Hadoop/Spark    | |
+|1| Dec 27 | Introduction to Systems Design; Goals of Systems;<br/> Example Systems: Web, Hadoop/Spark    | |
 |1| Dec 27 | Lab: Introduction to AWS: EC2, S3, DynamoDB, ELB, Kinesis | |
-|2| Jan 3 | Key components in building systems (e.g. AWS services); System Design Principles: Rules of Thumb, Common Pitfalls in Systems Design; Correctness/Consistency; Key Metrics: Throughput, Latency, Availability, Jitter/Lags| |
+|2| Jan 3 | Key components in building systems (e.g. AWS services); <br/>System Design Principles: Rules of Thumb, Common Pitfalls in Systems Design; Correctness/Consistency; <br/>Key Metrics: Throughput, Latency, Availability, Jitter/Lags| |
 |2| Jan 3 | Case Studies: Architecture of Several Large Applications such as Google Maps, AirBnB, Uber,  DropBox | |
 |3| Jan 10| Operational Laws: Little's Law, response-time law, asymptotic bounds, modification analysis, performance metrics, open systems, closed systems||
 |3| Jan 10| Lab: Simulations: time averages versus ensemble averages, generating random variables for simulation, Inspection Paradox.||
@@ -69,11 +69,11 @@ __Detailed Schedule__
 |8| Feb 14| Databases:  Relational, Key-Value, Document, Graph||
 |8| Feb 14| Lab: No-SQL Databases||
 |8| Feb 14| Case Studies: Databases, E-Commerce, Web-Farms  ||
-|9| Feb 21| Modeling Empirical Workloads: heavy-tailed property, Pareto distributions, heavy-tailed distributions, understanding variability and tail behavior, Important results from Queueing Theory: M/M/1, M/M/k, M/G/1 analysis  ||
+|9| Feb 21| Modeling Empirical Workloads: Pareto distributions, heavy-tailed distributions, understanding variability and tail behavior,<br/> Important results from Queueing Theory: M/M/1, M/M/k, M/G/1 analysis  ||
 |9| Feb 21| Lab: Redis Database Intro,  | |
 |10| Feb 28| Management of Server Farms: capacity provisioning, dynamic power management, routing policies||
 |10| Feb 28| Lab: Performance Testing   |    |
-|11| Mar 7| Resource Management: Scheduling-Load Balancing-TCP throughput Model,  Load Balancing: Algorithms, Reverse Proxy ; Hashing, Consistent Hashing, Indexing, Data Partitioning, Sharding, Replication, Data Modeling Questions,||
+|11| Mar 7| Resource Management: Scheduling-Load Balancing-TCP throughput Model,  <br/> Load Balancing: Algorithms, Reverse Proxy ; <br/> Hashing, Consistent Hashing, Indexing, Data Partitioning, Sharding, Replication, Data Modeling Questions||
 |11| Mar 7| __Project: Making your application Scalable and High-Performance__| |
 |12| Mar 12-20|__Mid Sem Break__||
 |12| Mar 21| __Tierce 2 Exam__||
