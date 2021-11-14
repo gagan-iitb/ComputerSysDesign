@@ -58,11 +58,11 @@ __Detailed Schedule__
 |3| Jan 10| Lab: Simulations: time averages versus ensemble averages, generating random variables for simulation, Inspection Paradox.||
 |3| Jan 10| Case Studies: Architecture of Several Large Applications such as Instagram, Messenger, Twitter, Web Crawler, Ticketing Engine ||
 |4| Jan 17| Scalability; Models of Distributed Systems: Failures, Attacks ||
-|4| Jan 17| Lab: RPC ||
+|4| Jan 17| Lab: Failure Testing, Injecting failures in your application ||
 |5| Jan 24| System Design Patterns for Fault Tolerance and High Availability||
-|5| Jan 24| Lab:  ||
+|5| Jan 24| Lab: System design patterns ||
 |6| Jan 31| Load Balancing; Time, Clocks, Ordering, Consensus  ||
-|6| Jan 31| __Project: __ ||
+|6| Jan 31| __Project: Building a Fault-Tolerant and Available Web Application __ ||
 |6| Feb 3| __Tierce 1 Exam__||
 |7| Feb 7| Naming: DNS, API Gateways, Distributed File Systems, Zookeeper      ||
 |7| Feb 7| Lab: NFS ||
@@ -72,9 +72,9 @@ __Detailed Schedule__
 |9| Feb 21| Modeling Empirical Workloads: heavy-tailed property, Pareto distributions, heavy-tailed distributions, understanding variability and tail behavior, Important results from Queueing Theory: M/M/1, M/M/k, M/G/1 analysis  ||
 |9| Feb 21| Lab: Redis Database Intro,  | |
 |10| Feb 28| Management of Server Farms: capacity provisioning, dynamic power management, routing policies||
-|10| Feb 28| Lab:    |    |
+|10| Feb 28| Lab: Performance Testing   |    |
 |11| Mar 7| Resource Management: Scheduling-Load Balancing-TCP throughput Model,  Load Balancing: Algorithms, Reverse Proxy ; Hashing, Consistent Hashing, Indexing, Data Partitioning, Sharding, Replication, Data Modeling Questions,||
-|11| Mar 7| __Project: __| |
+|11| Mar 7| __Project: Making your application Scalable and High-Performance__| |
 |12| Mar 12-20|__Mid Sem Break__||
 |12| Mar 21| __Tierce 2 Exam__||
 |13| Apr 4 | WebSockets, Microservices Architecture vs Monoliths, OAUTH 2.0, Design Problems ||
