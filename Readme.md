@@ -11,10 +11,9 @@ After completing this class, the students will be able to design their own distr
 
 The students will be able to evaluate and critique existing systems, as well as their own system designs. As part of that, students will learn to recognize design choices made in existing systems.
 
-Learning Outcomes:
+__Learning Outcomes:
 
-The students will be able to apply the technical material taught in lecture to new system
-components. This implies an ability to recognize and describe:
+The students will be able to apply the technical material taught in lecture to new system components. This implies an ability to recognize and describe:
 
 • How common design patterns in computer system—such as abstraction and modularity are used to limit complexity.
 
@@ -25,6 +24,8 @@ components. This implies an ability to recognize and describe:
 • How reliable, usable distributed systems are able to be built on top of an unreliable network.
 
 • Common pitfalls in the security of computer systems, and how to combat them.
+
+• How to measure system performance and what can we do to improve performance and scalability?
 
 
 __Course content:__
@@ -73,7 +74,7 @@ Legend:
 |7| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 7| Lab: NFS ||
 |8| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb14| Databases:  Relational, Key-Value, Document, Graph||
 |8| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 14| Lab: No-SQL Databases||
-|8| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 14| Case Studies: Databases, E-Commerce, Web-Farms  ||
+|8| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 14| Case Studies: Databases, E-Commerce, Web-Farms, DBOS ||
 |9| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb21| Modeling Empirical Workloads: Pareto distributions, heavy-tailed distributions, understanding variability and tail behavior,<br/> Important results from Queueing Theory: M/M/1, M/M/k, M/G/1 analysis  ||
 |9| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 21| Lab: Redis Database Intro,  | |
 |10| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb28| Management of Server Farms: capacity provisioning, dynamic power management, routing policies||
