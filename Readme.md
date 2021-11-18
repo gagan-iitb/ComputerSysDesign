@@ -1,4 +1,4 @@
-Course Page for CS559 (Computer Systems Design) to be taught at IIT Bhilai, India in the Winter Semester of 2022.
+__Course Page for CS559 (Computer Systems Design) to be taught at IIT Bhilai, India in the Winter Semester of 2022.
 Course Instructor: Dr. Gagan Raj Gupta, Dr. Subhajit Sidhanta
 
 Real life applications are complex and involve a variety of components (multiple clients, backend servers, databases, all connected by a network). We want our applications to be scalable, reliable and performant. How do we go from the idea to the design to its implementation and successful operationalization?
@@ -47,6 +47,10 @@ __Course content:__
 * Indexing, Data Partitioning, Sharding, Replication, Data Modeling Questions,
 * Push vs Pull systems, 
 * Other Topics: Virtualization-Security and Access Control-Reliability Models
+
+__Pre-requisites
+
+Undergraduate course in Computer Networks and Operating Systems 
 
 
 __Detailed Schedule__
