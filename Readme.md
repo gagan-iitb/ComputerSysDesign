@@ -1,15 +1,16 @@
+Course Page for CS559 (Computer Systems Design) to be taught at IIT Bhilai, India in the Winter Semester of 2022.
+Course Instructor: Dr. Gagan Raj Gupta, Dr. Subhajit Sidhanta
+
 Real life applications are complex and involve a variety of components (multiple clients, backend servers, databases, all connected by a network). We want our applications to be scalable, reliable and performant. How do we go from the idea to the design to its implementation and successful operationalization?
 
 This course is an attempt to teach the basic principles underlying system design, implementation, and evaluation of computer systems. It provides an introduction to the state-of-the-art analytic modelling techniques that are used in computer system design. Students will also learn general systems concepts that support design goals of modularity, performance, and security. Students will apply materials learned in lectures and readings to design, build and evaluate new systems components.
 
 __Objectives:__
 
-After completing this class, the students will be able to design their own distributed systems to
-solve real-world problems. The ability to design one's own distributed system includes an ability
-to argue for one's design choices.
+After completing this class, the students will be able to design their own distributed systems to solve real-world problems. The ability to design one's own distributed system includes an ability to argue for one's design choices.
 
-The students will be able to evaluate and critique existing systems, as well as their own system
-designs. As part of that, students will learn to recognize design choices made in existing systems.
+The students will be able to evaluate and critique existing systems, as well as their own system designs. As part of that, students will learn to recognize design choices made in existing systems.
+
 Learning Outcomes:
 
 The students will be able to apply the technical material taught in lecture to new system
