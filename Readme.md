@@ -1,7 +1,8 @@
 # Course Page for CS559 (Computer Systems Design)
 
 To be taught at IIT Bhilai, India in the Winter Semester of 2022.
-Course Instructor: [Dr. Gagan Raj Gupta ](https://www.iitbhilai.ac.in/index.php?pid=gagan), Dr. Subhajit Sidhanta
+b
+Course Instructor: [Dr. Gagan Raj Gupta ](https://www.iitbhilai.ac.in/index.php?pid=gagan)  and [Dr. Subhajit Sidhanta](https://www.iitbhilai.ac.in/index.php?pid=subhajit)
 
 Real life applications are complex and involve a variety of components (multiple clients, backend servers, databases, all connected by a network). We want our applications to be scalable, reliable and performant. How do we go from the idea to the design to its implementation and successful operationalization?
 
