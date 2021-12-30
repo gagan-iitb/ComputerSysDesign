@@ -30,31 +30,17 @@ The students will be able to apply the technical material taught in lecture to n
 
 • How to measure system performance and what can we do to improve performance and scalability?
 
-
-__Course content:__
-
-* Introduction to systems: Example Systems- Operating Systems-Distributed File Systems-Databases-Web Frameworks-Networks 
-* Case Studies: Twitter, Uber
-* Rules of Thumb: Common Mistakes, Systematic Approach, 
-* Systems design intro: Setting goals for your system-Principles of good design; 
-* Performance Vs Scalability; Latency vs Thruput; CAP Theorem (Availability vs Consistency); Cost 
-* Modeling Fundamentals: Quantitative Systems Design-Queuing Systems-Fundamental Laws and Applications-Asymptotic Bounds
-* Naming Schemes: Unix File System-Git-Network Naming
-* DNS, API Gateways, Zookeeper
-* Caching: CPU Caching-CDN Caching
-* Why CDN? Why Caching? Eviction Policies, Redis Intro, Design problems on CDNs
-* Resource Management: Scheduling-Load Balancing-TCP throughput Model
-* Load Balancing: Algorithms, Reverse Proxy
-* WebSockets, Microservices Architecture vs Monoliths, OAUTH 2.0, Design Problems
-* Hashing, Consistent Hashing, 
-* Indexing, Data Partitioning, Sharding, Replication, Data Modeling Questions,
-* Push vs Pull systems, 
-* Other Topics: Virtualization-Security and Access Control-Reliability Models
-
 __Pre-requisites__
 
 Undergraduate course in Computer Networks and Operating Systems 
+All the assignments will be using AWS. Some familiarity with it would be very helpful.
 
+__Class Timings and Location__
+
+Lecture Room: B102
+Lecture Timings: 2:30 p.m. to 4:00 p.m. Thursday and Friday
+Office Hours: 2:00-2:30 p.m. and 4:00-4:30 p.m. Thursday and Friday
+Tutorials will be conducted on a need basis
 
 __Detailed Schedule__
 Legend:
@@ -131,3 +117,22 @@ __Similar courses available in other institute(s) / MOOC portals:__
 * CMU 15-857: Analytical Performance Modeling & Design of Computer Systems
 (https://www.cs.cmu.edu/~harchol/Perfclass/class21fall.html )
 
+__Course content:__
+
+* Introduction to systems: Example Systems- Operating Systems-Distributed File Systems-Databases-Web Frameworks-Networks 
+* Case Studies: Twitter, Uber
+* Rules of Thumb: Common Mistakes, Systematic Approach, 
+* Systems design intro: Setting goals for your system-Principles of good design; 
+* Performance Vs Scalability; Latency vs Thruput; CAP Theorem (Availability vs Consistency); Cost 
+* Modeling Fundamentals: Quantitative Systems Design-Queuing Systems-Fundamental Laws and Applications-Asymptotic Bounds
+* Naming Schemes: Unix File System-Git-Network Naming
+* DNS, API Gateways, Zookeeper
+* Caching: CPU Caching-CDN Caching
+* Why CDN? Why Caching? Eviction Policies, Redis Intro, Design problems on CDNs
+* Resource Management: Scheduling-Load Balancing-TCP throughput Model
+* Load Balancing: Algorithms, Reverse Proxy
+* WebSockets, Microservices Architecture vs Monoliths, OAUTH 2.0, Design Problems
+* Hashing, Consistent Hashing, 
+* Indexing, Data Partitioning, Sharding, Replication, Data Modeling Questions,
+* Push vs Pull systems, 
+* Other Topics: Virtualization-Security and Access Control-Reliability Models
