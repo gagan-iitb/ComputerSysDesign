@@ -33,13 +33,17 @@ The students will be able to apply the technical material taught in lecture to n
 __Pre-requisites__
 
 Undergraduate course in Computer Networks and Operating Systems 
+
 All the assignments will be using AWS. Some familiarity with it would be very helpful.
 
 __Class Timings and Location__
 
 Lecture Room: B102
+
 Lecture Timings: 2:30 p.m. to 4:00 p.m. Thursday and Friday
+
 Office Hours: 2:00-2:30 p.m. and 4:00-4:30 p.m. Thursday and Friday
+
 Tutorials will be conducted on a need basis
 
 __Detailed Schedule__
