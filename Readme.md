@@ -46,6 +46,19 @@ Office Hours: 2:00-2:30 p.m. and 4:00-4:30 p.m. Thursday and Friday
 
 Tutorials will be conducted on a need basis
 
+__Textbook/Reference books:__
+1. [SJK] Saltzer, Jerome H. and M. Frans Kaashoek. 2009, Principles of Computer System Design: An Introduction, Part I. Morgan Kaufmann, ISBN: 9780123749574. Part II
+of the textbook is available on MIT OpenCourseWare.
+
+2. [MB] Mor Harchol-Balter, February 2013, Performance Modeling and Design of Computer Systems: Queueing Theory in Action, Cambridge University Press
+
+3. [BL] Butler Lampson, 2011, Hints and Principles for Computer Systems Design,
+(https://arxiv.org/ftp/arxiv/papers/2011/2011.02455.pdf )
+
+4. [LZGS] E. D. Lazowska, J. Zahorjan, G. S. Graham, K. C. Sevcik, 1984, Quantitative System Performance, Prentice Hall.
+
+5. [LK] L. Kleinrock, 1975. Queueing Systems Volume I: Theory, Wiley Interscience. 
+
 __Detailed Schedule__
 Legend:
  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Theory
@@ -53,7 +66,7 @@ Legend:
 
 |#| Week| Topics planned in this week | Text Book Reference |
 | --- | ------------| ----------- | -------- |
-|1| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Dec27 | Introduction to Systems Design; Goals of Systems;<br/> Example Systems: Web, Hadoop/Spark    |[1](https://github.com/donnemartin/system-design-primer/tree/master/solutions/system_design/pastebin) |
+|1| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Dec27 | Introduction to Systems Design; Goals of Systems;<br/> Example Systems: Web, Hadoop/Spark    |[1](https://github.com/donnemartin/system-design-primer/tree/master/solutions/system_design/pastebin) SJK Ch1|
 |1| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Dec 27 | Lab: Introduction to AWS: EC2, S3, DynamoDB, ELB, Kinesis | [2](https://aws.amazon.com/getting-started/hands-on)  [3](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.CreatingConnecting.MySQL.html)|
 |2| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan3 | Key components in building systems (e.g. AWS services); <br/>System Design Principles: Rules of Thumb, Common Pitfalls in Systems Design; Correctness/Consistency; <br/>Key Metrics: Throughput, Latency, Availability, Jitter/Lags| |
 |2| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 3 | Case Studies: Architecture of Several Large Applications such as Google Maps, AirBnB, Uber,  DropBox | |
@@ -90,23 +103,6 @@ Legend:
 |15| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr25| Other Topics: Virtualization-Security and Access Control-Reliability Models | |
 |16| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr 25| Lab: Openstack,  ||
 |17 |![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr 25 |__Major Project: Complete a major system design course project__  ||
-
-
-
-
-__Textbook/Reference books:__
-1. Saltzer, Jerome H. and M. Frans Kaashoek. 2009, Principles of Computer System Design: An Introduction, Part I. Morgan Kaufmann, ISBN: 9780123749574. Part II
-of the textbook is available on MIT OpenCourseWare.
-
-2. Butler Lampson, 2011, Hints and Principles for Computer Systems Design,
-(https://arxiv.org/ftp/arxiv/papers/2011/2011.02455.pdf )
-
-3. E. D. Lazowska, J. Zahorjan, G. S. Graham, K. C. Sevcik, 1984, Quantitative System Performance, Prentice Hall.
-
-4. L. Kleinrock, 1975. Queueing Systems Volume I: Theory, Wiley Interscience. 5. Mor Harchol-Balter, February 2013, Performance Modeling and Design of Computer Systems: Queueing Theory in Action, Cambridge University Press
-
-
-
 
 __Similar courses available in other institute(s) / MOOC portals:__
 
