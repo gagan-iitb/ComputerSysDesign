@@ -44,6 +44,9 @@ Lecture Timings: 2:30 p.m. to 4:00 p.m. Thursday and Friday
 
 Office Hours: 2:00-2:30 p.m. and 4:00-4:30 p.m. Thursday and Friday
 
+__Course Materials__
+Google Drive Link for IIT Bhilai Students: [GDrive](https://drive.google.com/drive/folders/1i0VtvMyIu4FIVmAxFJ81NnOdoT1atasW)
+
 Tutorials will be conducted on a need basis
 
 __Textbook/Reference books:__
