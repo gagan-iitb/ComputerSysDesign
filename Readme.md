@@ -61,6 +61,7 @@ of the textbook is available on MIT OpenCourseWare.
 4. [LZGS] E. D. Lazowska, J. Zahorjan, G. S. Graham, K. C. Sevcik, 1984, Quantitative System Performance, Prentice Hall.
 
 5. [LK] L. Kleinrock, 1975. Queueing Systems Volume I: Theory, Wiley Interscience. 
+6. [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, Operating Systems: Three Easy Pieces, Arpaci-Dusseau Books, 2018
 
 __Detailed Schedule__
 Legend:
