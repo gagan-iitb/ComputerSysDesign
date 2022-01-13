@@ -45,11 +45,12 @@ Lecture Timings: 2:30 p.m. to 4:00 p.m. Thursday and Friday
 Office Hours: 2:00-2:30 p.m. and 4:00-4:30 p.m. Thursday and Friday
 
 __Course Materials__
-Google Drive Link for IIT Bhilai Students: [GDrive](https://drive.google.com/drive/folders/1i0VtvMyIu4FIVmAxFJ81NnOdoT1atasW)
 
-Canvas Link for registered Students: [Canvas](https://canvas.instructure.com/courses/4085885)
+* Google Drive Link with Lecture materials for IIT Bhilai Students: [GDrive](https://drive.google.com/drive/folders/1i0VtvMyIu4FIVmAxFJ81NnOdoT1atasW)
 
-Tutorials will be conducted on a need basis
+* Canvas Link for registered Students (for Assignments and Discussions): [Canvas](https://canvas.instructure.com/courses/4085885)
+
+* Tutorials will be conducted on a weekly basis
 
 __Textbook/Reference books:__
 1. [SJK] Saltzer, Jerome H. and M. Frans Kaashoek. 2009, Principles of Computer System Design: An Introduction, Part I. Morgan Kaufmann, ISBN: 9780123749574. Part II
