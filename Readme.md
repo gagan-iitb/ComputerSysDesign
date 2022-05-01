@@ -22,11 +22,7 @@ The students will be able to apply the technical material taught in lecture to n
 
 • How operating systems use virtualization and abstraction to enforce modularity.
 
-• How the Internet is designed to deal with scale, a diversity of applications, and competing economic interests.
-
 • How reliable, usable distributed systems are able to be built on top of an unreliable network.
-
-• Common pitfalls in the security of computer systems, and how to combat them.
 
 • How to measure system performance and what can we do to improve performance and scalability?
 
@@ -92,7 +88,7 @@ Legend:
 |8| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb14| Databases:  Relational, Key-Value, Document, Graph||
 |8| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 14| Lab: No-SQL Databases||
 |8| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 14| Case Studies: Databases, E-Commerce, Web-Farms, DBOS ||
-|9| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb21| Modeling Empirical Workloads: Pareto distributions, heavy-tailed distributions, understanding variability and tail behavior,<br/> Important results from Queueing Theory: M/M/1, M/M/k, M/G/1 analysis  ||
+|9| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb21| Modeling Empirical Workloads: Pareto distributions, heavy-tailed distributions, understanding variability and tail behavior,<br/>   ||
 |9| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 21| Lab: Redis Database Intro,  | |
 |10| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb28| Management of Server Farms: capacity provisioning, dynamic power management, routing policies||
 |10| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 28| Lab: Performance Testing   |    |
@@ -100,15 +96,12 @@ Legend:
 |11| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Mar 7| __Project: Making your application Scalable and High-Performance__| |
 |12| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Mar 12-20|__Mid Sem Break__||
 |12| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Mar 21| __Tierce 2 Exam__||
-|13| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr4 | WebSockets, Microservices Architecture vs Monoliths, OAUTH 2.0, Design Problems ||
+|13| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr4 | CStore, NoSQL DBs ||
 |13|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr4| Lab: Designing applications ||
-|14| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr11| Caching, CDNs ||
-|14| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr 11| Lab: Design problems on CDNs ||
-|14| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr 11| Case Studies: Akamai  ||
-|15| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr18| Message Queues: Push vs Pull systems; Distributed Ledgers: BlockChain ||
-|15| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr 18 | Lab: Kafka, BitCoin  ||
-|15| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr25| Other Topics: Virtualization-Security and Access Control-Reliability Models | |
-|16| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr 25| Lab: Openstack,  ||
+|14| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr11| DynamoDB, Consistency, NoSQL DBs ||
+|14| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr 11| HW: Designing TypeAhead Service ||
+|15| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr18| Recent papers: SegCache, InfluxDB, Raft Protocol, Pull based consensus in MongoDB  ||
+|15| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr25| Important results from Queueing Theory: M/M/1, M/M/k, M/G/1 analysis | MB Ch 13,14,15,23 |
 |17 |![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr 25 |__Major Project: Complete a major system design course project__  ||
 
 __Similar courses available in other institute(s) / MOOC portals:__
