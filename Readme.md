@@ -1,8 +1,8 @@
 # Course Page for CS559 (Computer Systems Design)
 
-To be taught at IIT Bhilai, India in the Winter Semester of 2022.
+To be taught at IIT Bhilai, India in the Winter Semester of 2024. 
 
-__Course Instructor:__ [Dr. Gagan Raj Gupta ](https://www.iitbhilai.ac.in/index.php?pid=gagan)  and [Dr. Subhajit Sidhanta](https://www.iitbhilai.ac.in/index.php?pid=subhajit)
+__Course Instructor:__ [Dr. Gagan Raj Gupta ](https://www.iitbhilai.ac.in/index.php?pid=gagan) 
 
 Real life applications are complex and involve a variety of components (multiple clients, backend servers, databases, all connected by a network). We want our applications to be scalable, reliable and performant. How do we go from the idea to the design to its implementation and successful operationalization?
 
@@ -30,23 +30,19 @@ __Pre-requisites__
 
 Undergraduate course in Computer Networks and Operating Systems 
 
-All the assignments will be using AWS. Some familiarity with it would be very helpful.
+All the assignments will be using AWS. Familiarity with it is a pre-requisite.
 
 __Class Timings and Location__
 
-Lecture Room: B102
+Lecture Room: 
 
-Lecture Timings: 2:30 p.m. to 4:00 p.m. Thursday and Friday
-
-Office Hours: 2:00-2:30 p.m. and 4:00-4:30 p.m. Thursday and Friday
+Lecture Timings: 8:30 a.m. to 9:30 a.m. On Mondays and 9:30 am -10:30 am on Wednesdays and Friday
 
 __Course Materials__
 
 * Google Drive Link with Lecture materials for IIT Bhilai Students: [GDrive](https://drive.google.com/drive/folders/1i0VtvMyIu4FIVmAxFJ81NnOdoT1atasW)
 
 * Canvas Link for registered Students (for Assignments and Discussions): [Canvas](https://canvas.instructure.com/courses/4085885)
-
-* Tutorials will be conducted on a weekly basis
 
 __Textbook/Reference books:__
 1. [SJK] Saltzer, Jerome H. and M. Frans Kaashoek. 2009, Principles of Computer System Design: An Introduction, Part I. Morgan Kaufmann, ISBN: 9780123749574. Part II
