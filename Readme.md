@@ -60,6 +60,16 @@ of the textbook is available on MIT OpenCourseWare.
 7. Alex Xu's books: **https://bytebytego.com/**
 8. https://understandingdistributed.systems/
 
+
+__Grading Plan__
+
+2 Exams: 50%
+Weekly System Design Exercise (In class): 15%
+1 Assignment: 10%
+1 Project: 25% 
+
+The assignment is individual. The project will be end-to-end (full stack) in a team.
+
 __Detailed Schedule__
 Legend:
  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Theory
