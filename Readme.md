@@ -63,10 +63,10 @@ of the textbook is available on MIT OpenCourseWare.
 
 __Grading Plan__
 
-2 Exams: 50%
-Weekly System Design Exercise (In class): 15%
-1 Assignment: 10%
-1 Project: 25% 
+* 2 Exams: 50%
+* Weekly System Design Exercise (In class): 15%
+* 1 Assignment: 10%
+* 1 Project: 25% 
 
 The assignment is individual. The project will be end-to-end (full stack) in a team.
 
