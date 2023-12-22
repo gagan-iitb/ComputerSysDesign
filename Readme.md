@@ -4,25 +4,25 @@ To be taught at IIT Bhilai, India in the Winter Semester of 2024.
 
 __Course Instructor:__ [Dr. Gagan Raj Gupta ](https://www.iitbhilai.ac.in/index.php?pid=gagan) 
 
-Real life applications are complex and involve a variety of components (multiple clients, backend servers, databases, all connected by a network). We want our applications to be scalable, reliable and performant. How do we go from the idea to the design to its implementation and successful operationalization?
+Real-life applications are complex and involve a variety of components (multiple clients, backend servers, databases, ML modules, all connected by a network). We want our applications to be intelligent, adaptive (data-driven), scalable, reliable, and performant. How do we go from the idea to the design to its implementation and successful operationalization?
 
-This course is an attempt to teach the basic principles underlying system design, implementation, and evaluation of computer systems. It provides an introduction to the state-of-the-art analytic modelling techniques that are used in computer system design. Students will also learn general systems concepts that support design goals of modularity, performance, and security. Students will apply materials learned in lectures and readings to design, build and evaluate new systems components.
+This course attempts to teach the basic principles underlying system design, implementation, and evaluation of computer systems. It provides an introduction to the fundamentals of analytic modeling techniques that are used in computer system design. Students will also learn general systems concepts that support design goals of modularity, performance, and security. Students will apply materials learned in lectures and readings to design, build and evaluate new systems components.
 
 __Objectives:__
 
 After completing this class, the students will be able to design their own distributed systems to solve real-world problems. The ability to design one's own distributed system includes an ability to argue for one's design choices.
 
-The students will be able to evaluate and critique existing systems, as well as their own system designs. As part of that, students will learn to recognize design choices made in existing systems.
+The students will be able to evaluate and critique existing systems and their own system designs. As part of that, students will learn to recognize design choices made in existing systems.
 
 __Learning Outcomes:__
 
-The students will be able to apply the technical material taught in lecture to new system components. This implies an ability to recognize and describe:
+The students will be able to apply the technical material taught in the lecture to new system components. This implies an ability to recognize and describe:
 
-• How common design patterns in computer system—such as abstraction and modularity are used to limit complexity.
+• How common design patterns in computer systems—such as abstraction and modularity are used to limit complexity.
 
 • How operating systems use virtualization and abstraction to enforce modularity.
 
-• How reliable, usable distributed systems are able to be built on top of an unreliable network.
+• How reliable, usable distributed systems can be built on top of an unreliable network.
 
 • How to measure system performance and what can we do to improve performance and scalability?
 
@@ -64,11 +64,11 @@ of the textbook is available on MIT OpenCourseWare.
 __Grading Plan__
 
 * 2 Exams: 50%
-* Weekly System Design Exercise (In class): 15%
+* Weekly System Design Exercise (In class): 15% [will mimic system design interviews]
 * 1 Assignment: 10%
-* 1 Project: 25% 
+* 1 Project: 25% [Project will include a mock interview]
 
-The assignment is individual. The project will be end-to-end (full stack) in a team.
+The assignment is individual. The project will be end-to-end (full stack) in a team. Students are encouraged to build balanced teams [front-end developer, back-end developer, ML engineer, tester, architect roles] 
 
 __Detailed Schedule__
 Legend:
