@@ -30,8 +30,11 @@ __Pre-requisites__
 
 Undergraduate course in Computer Networks and Operating Systems 
 
-All the assignments will be using AWS. Familiarity with it is a pre-requisite.
-
+__All the assignments will assume familiarity with cloud services such as AWS. Familiarity with it is a pre-requisite__
+The following courses may be helpful to you:
+__https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner__
+__https://www.coursera.org/learn/aws-cloud-practitioner-essentials__
+__https://aws.amazon.com/getting-started/hands-on__
 __Class Timings and Location__
 
 Lecture Room: 
