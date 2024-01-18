@@ -61,8 +61,9 @@ of the textbook is available on MIT OpenCourseWare.
 5. [LK] L. Kleinrock, 1975. Queueing Systems Volume I: Theory, Wiley Interscience. 
 6. [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, Operating Systems: Three Easy Pieces, Arpaci-Dusseau Books, 2018
 7. Alex Xu's books: **https://bytebytego.com/**
-8. https://understandingdistributed.systems/
-
+8. [UDS] https://understandingdistributed.systems/ : Simplified and easy to follow description of essential concepts on a wide range of topics
+9. Google SRE books: https://sre.google/books/
+10. 
 
 __Grading Plan__
 
