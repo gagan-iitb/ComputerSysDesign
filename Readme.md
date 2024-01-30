@@ -75,46 +75,12 @@ __Grading Plan__
 The assignment is individual. The project will be end-to-end (full stack) in a team. Students are encouraged to build balanced teams [front-end developer, back-end developer, ML engineer, tester, architect roles] 
 
 __Detailed Schedule__
-Legend:
- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Theory
- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Labs
 
-|#| Week| Topics planned in this week | Text Book Reference |
-| --- | ------------| ----------- | -------- |
-|1| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Dec27 | Introduction to Systems Design; Goals of Systems;<br/> Example Systems: URL Shortening service, Pastebin, Twitter    |[1](https://github.com/donnemartin/system-design-primer/tree/master/solutions/system_design/pastebin) SJK Ch1|
-|1| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Dec 27 | Lab: Introduction to AWS: IAM, EC2, S3, DynamoDB, ELB, Route 53, Kinesis | [2](https://aws.amazon.com/getting-started/hands-on)  [3](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.CreatingConnecting.MySQL.html) [4](https://realpython.com/api-integration-in-python/)|
-|2| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan3 | Key components in building systems (e.g. AWS services); <br/>System Design Principles: Rules of Thumb, Common Pitfalls in Systems Design; <br/>Key Metrics: Throughput, Latency, Availability, Jitter/Lags| MB Ch 1,2|
-|2| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 3 | Case Studies: Architecture of Several Large Applications such as Twitter |[5](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design) |
-|3| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan10| Performance metrics, Open systems, Closed systems, Operational Laws: Little's Law, asymptotic bounds, modification analysis |MB Ch 2, 6,7|
-|3| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 10| Lab: Simulations: time averages versus ensemble averages, generating random variables for simulation|MB Ch 4,5|
-|3| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 10| Case Studies: Architecture of Several Large Applications such as Hadoop, Spark, Dynamo DB |[5](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design)|
-|4| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan17| Scalability; Models of Distributed Systems: Failures, Attacks ||
-|4| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 17| Lab: Failure Testing, Injecting failures in your application ||
-|5| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan24| System Design Patterns for Fault Tolerance and High Availability||
-|5| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 24| Lab: System design patterns ||
-|6| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan31| Load Balancing; Time, Clocks, Ordering, Consensus  ||
-|6| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 31| __Project: Building a Fault-Tolerant and Available Web Application __ ||
-|6| Feb 3| __Tierce 1 Exam__||
-|7| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb7| Naming: DNS, API Gateways, Distributed File Systems, Zookeeper      ||
-|7| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 7| Lab: NFS ||
-|8| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb14| Databases:  Relational, Key-Value, Document, Graph||
-|8| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 14| Lab: No-SQL Databases||
-|8| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 14| Case Studies: Databases, E-Commerce, Web-Farms, DBOS ||
-|9| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb21| Modeling Empirical Workloads: Pareto distributions, heavy-tailed distributions, understanding variability and tail behavior,<br/>   ||
-|9| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 21| Lab: Redis Database Intro,  | |
-|10| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb28| Management of Server Farms: capacity provisioning, dynamic power management, routing policies||
-|10| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 28| Lab: Performance Testing   |    |
-|11| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Mar7| Resource Management: Scheduling-Load Balancing-TCP throughput Model,  <br/> Load Balancing: Algorithms, Reverse Proxy ; <br/> Hashing, Consistent Hashing, Indexing, Data Partitioning, Sharding, Replication, Data Modeling Questions||
-|11| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Mar 7| __Project: Making your application Scalable and High-Performance__| |
-|12| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Mar 12-20|__Mid Sem Break__||
-|12| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Mar 21| __Tierce 2 Exam__||
-|13| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr4 | CStore, NoSQL DBs ||
-|13|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr4| Lab: Designing applications ||
-|14| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr11| DynamoDB, Consistency, NoSQL DBs ||
-|14| ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr 11| HW: Designing TypeAhead Service ||
-|15| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr18| Recent papers: SegCache, InfluxDB, Raft Protocol, Pull based consensus in MongoDB  ||
-|15| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr25| Important results from Queueing Theory: M/M/1, M/M/k, M/G/1 analysis | MB Ch 13,14,15,23 |
-|17 |![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr 25 |__Major Project: Complete a major system design course project__  ||
+__Week1__ Introduction to the course, modularity, building a Campus Service Application, Building Blocks of AWS (reading assignment)
+__Week2__ Building Reliable and Secure Communications, Networks, API Design 
+__Week3__ Design for Maintainability: testing, tracing, logging, metrics
+__Week4__ System Design Interview Preparation, High-Level Design, Back of Envelope Calculations, Detailed Design
+__Week5__ System Scalability and performance analysis basics
 
 __Similar courses available in other institute(s) / MOOC portals:__
 
