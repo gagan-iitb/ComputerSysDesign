@@ -76,11 +76,11 @@ The assignment is individual. The project will be end-to-end (full stack) in a t
 
 __Detailed Schedule__
 
-__Week1__ Introduction to the course, modularity, building a Campus Service Application, Building Blocks of AWS (reading assignment)
-__Week2__ Building Reliable and Secure Communications, Networks, API Design 
-__Week3__ Design for Maintainability: testing, tracing, logging, metrics
-__Week4__ System Design Interview Preparation, High-Level Design, Back of Envelope Calculations, Detailed Design
-__Week5__ System Scalability and performance analysis basics
+* __Week1__ Introduction to the course, modularity, building a Campus Service Application, Building Blocks of AWS (reading assignment)
+* __Week2__ Building Reliable and Secure Communications, Networks, API Design 
+* __Week3__ Design for Maintainability: testing, tracing, logging, metrics
+* __Week4__ System Design Interview Preparation, High-Level Design, Back of Envelope Calculations, Detailed Design
+* __Week5__ System Scalability and performance analysis basics
 
 __Similar courses available in other institute(s) / MOOC portals:__
 
