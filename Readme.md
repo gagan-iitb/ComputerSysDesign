@@ -32,13 +32,14 @@ Undergraduate course in Computer Networks and Operating Systems
 
 __All the assignments will assume familiarity with cloud services such as AWS. Familiarity with it is a pre-requisite__
 The following courses may be helpful to you:
-__https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner__
-__https://www.coursera.org/learn/aws-cloud-practitioner-essentials__
-__https://aws.amazon.com/getting-started/hands-on__
+* __https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner__
+* __https://www.coursera.org/learn/aws-cloud-practitioner-essentials__
+* __https://aws.amazon.com/getting-started/hands-on__
+
+
 __Class Timings and Location__
 
-Lecture Room: 
-
+Lecture Room: L102
 Lecture Timings: 8:30 a.m. to 9:30 a.m. On Mondays and 9:30 am -10:30 am on Wednesdays and Friday
 
 __Course Materials__
@@ -81,7 +82,11 @@ __Detailed Schedule__
 * __Week3__: Design for Maintainability: testing, tracing, logging, metrics
 * __Week4__: System Design Interview Preparation, High-Level Design, Back of Envelope Calculations, Detailed Design
 * __Week5__: System Scalability and performance analysis basics
-* __Week6__: Process Coordination, Concurrency
+* __Feb5-9__: Rate Limiter, Open and Closed Systems, Process Coordination, Concurrency
+        * https://blog.bytebytego.com/p/rate-limiter-for-the-real-world
+        * https://builtin.com/software-engineering-perspectives/rate-limiter
+
+
 * __Week7__: Distributed Systems (Case study)
 * __Week8__: Reliable storage and File Systems
 * __Exam Week__: No classes
