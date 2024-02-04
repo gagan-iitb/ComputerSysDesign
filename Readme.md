@@ -91,7 +91,8 @@ __Detailed Schedule__
   * https://gist.github.com/ptarjan/e38f45f2dfe601419ca3af937fff574d#request-rate-limiter
   * https://engineering.classdojo.com/blog/2015/02/06/rolling-rate-limiter/
 
-* __Week7__: Distributed Systems Fundamentals: Process Coordination, Concurrency. Key Value Store (Case Study)
+* __Week7__: Distributed Systems Fundamentals: Process Coordination, Concurrency.
+*   Consistent Hashing, Key Value Store (Case Study)
 * __Week8__: Reliable storage and File Systems
 * __Exam Week__: No classes
 * __Research Papers__: After exam 1, we will switch gears and study both classical and recent papers on 3 main topics: Caching, DBs, ML Systems.
