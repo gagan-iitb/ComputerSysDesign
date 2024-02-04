@@ -83,6 +83,7 @@ __Detailed Schedule__
 * __Week4__: System Design Interview Preparation, High-Level Design, Back of Envelope Calculations, Detailed Design
 * __Week5__: System Scalability and performance analysis basics
 * __Feb5-9__: Rate Limiter, Open and Closed Systems, Process Coordination, Concurrency
+  
         * https://blog.bytebytego.com/p/rate-limiter-for-the-real-world
         * https://builtin.com/software-engineering-perspectives/rate-limiter
         * https://medium.com/@saisandeepmopuri/system-design-rate-limiter-and-data-modelling-9304b0d18250
