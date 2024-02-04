@@ -85,7 +85,7 @@ __Detailed Schedule__
 * __Feb5-9__: Rate Limiter, Open and Closed Systems, Process Coordination, Concurrency
         * https://blog.bytebytego.com/p/rate-limiter-for-the-real-world
         * https://builtin.com/software-engineering-perspectives/rate-limiter
-
+        * https://medium.com/@saisandeepmopuri/system-design-rate-limiter-and-data-modelling-9304b0d18250
 
 * __Week7__: Distributed Systems (Case study)
 * __Week8__: Reliable storage and File Systems
