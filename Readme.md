@@ -30,13 +30,6 @@ __Pre-requisites__
 
 Undergraduate course in Computer Networks and Operating Systems 
 
-__All the assignments will assume familiarity with cloud services such as AWS. Familiarity with it is a pre-requisite__
-The following courses may be helpful to you:
-* __https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner__
-* __https://www.coursera.org/learn/aws-cloud-practitioner-essentials__
-* __https://aws.amazon.com/getting-started/hands-on__
-
-
 __Class Timings and Location__
 
 Lecture Room: L102
@@ -49,22 +42,10 @@ __Course Materials__
 * Canvas Link for registered Students (for Assignments and Discussions): [Canvas](https://canvas.instructure.com/courses/4085885)
 
 __Textbook/Reference books:__
-1. [SJK] Saltzer, Jerome H. and M. Frans Kaashoek. 2009, Principles of Computer System Design: An Introduction, Part I. Morgan Kaufmann, ISBN: 9780123749574. Part II
-of the textbook is available on MIT OpenCourseWare.
 
-2. [MB] Mor Harchol-Balter, February 2013, Performance Modeling and Design of Computer Systems: Queueing Theory in Action, Cambridge University Press
+1. [MB] Mor Harchol-Balter, February 2013, Performance Modeling and Design of Computer Systems: Queueing Theory in Action, Cambridge University Press
 
-3. [BL] Butler Lampson, 2011, Hints and Principles for Computer Systems Design,
-(https://arxiv.org/ftp/arxiv/papers/2011/2011.02455.pdf )
-
-4. [LZGS] E. D. Lazowska, J. Zahorjan, G. S. Graham, K. C. Sevcik, 1984, Quantitative System Performance, Prentice Hall.
-
-5. [LK] L. Kleinrock, 1975. Queueing Systems Volume I: Theory, Wiley Interscience. 
-6. [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, Operating Systems: Three Easy Pieces, Arpaci-Dusseau Books, 2018
-7. Alex Xu's books: **https://bytebytego.com/**
-8. [UDS] https://understandingdistributed.systems/ : Simplified and easy to follow description of essential concepts on a wide range of topics
-9. Google SRE books: https://sre.google/books/
-10. 
+2. [UDS] https://understandingdistributed.systems/ : Simplified and easy to follow description of essential concepts on a wide range of topics
 
 __Grading Plan__
 
@@ -96,36 +77,3 @@ __Detailed Schedule__
 * __Week8__: Reliable storage and File Systems
 * __Exam Week__: No classes
 * __Research Papers__: After exam 1, we will switch gears and study both classical and recent papers on 3 main topics: Caching, DBs, ML Systems.
-
-__Similar courses available in other institute(s) / MOOC portals:__
-
-* MIT 6.033: Computer Systems Engineering (http://web.mit.edu/6.033/www/ )
-
-* Princeton COS 316: Principles of Computer Systems Design
-(https://www.cs.princeton.edu/courses/archive/fall19/cos316/ )
-
-* University of Wisconsin Madison, CS547: Computer Systems Modeling Fundamentals
-(http://pages.cs.wisc.edu/~vernon/cs547/cs547.html )
-
-* CMU 15-857: Analytical Performance Modeling & Design of Computer Systems
-(https://www.cs.cmu.edu/~harchol/Perfclass/class21fall.html )
-
-__Course content:__
-
-* Introduction to systems: Example Systems- Operating Systems-Distributed File Systems-Databases-Web Frameworks-Networks 
-* Case Studies: Twitter, Uber
-* Rules of Thumb: Common Mistakes, Systematic Approach, 
-* Systems design intro: Setting goals for your system-Principles of good design; 
-* Performance Vs Scalability; Latency vs Thruput; CAP Theorem (Availability vs Consistency); Cost 
-* Modeling Fundamentals: Quantitative Systems Design-Queuing Systems-Fundamental Laws and Applications-Asymptotic Bounds
-* Naming Schemes: Unix File System-Git-Network Naming
-* DNS, API Gateways, Zookeeper
-* Caching: CPU Caching-CDN Caching
-* Why CDN? Why Caching? Eviction Policies, Redis Intro, Design problems on CDNs
-* Resource Management: Scheduling-Load Balancing-TCP throughput Model
-* Load Balancing: Algorithms, Reverse Proxy
-* WebSockets, Microservices Architecture vs Monoliths, OAUTH 2.0, Design Problems
-* Hashing, Consistent Hashing, 
-* Indexing, Data Partitioning, Sharding, Replication, Data Modeling Questions,
-* Push vs Pull systems, 
-* Other Topics: Virtualization-Security and Access Control-Reliability Models
