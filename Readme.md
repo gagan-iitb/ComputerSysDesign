@@ -64,15 +64,7 @@ __Detailed Schedule__
 * __Week4__: System Design Interview Preparation, High-Level Design, Back of Envelope Calculations, Detailed Design
 * __Week5__: System Scalability and performance analysis basics
 * __Feb5-9__: Rate Limiter (Case Study), Open and Closed Systems
-  
-        * https://blog.bytebytego.com/p/rate-limiter-for-the-real-world
-        * https://builtin.com/software-engineering-perspectives/rate-limiter
-        * https://medium.com/@saisandeepmopuri/system-design-rate-limiter-and-data-modelling-9304b0d18250
-  Rate Limiters with Redis
-  * https://gist.github.com/ptarjan/e38f45f2dfe601419ca3af937fff574d#request-rate-limiter
-  * https://engineering.classdojo.com/blog/2015/02/06/rolling-rate-limiter/
-
-* __Week7__: Distributed Systems Fundamentals: Process Coordination, Concurrency.
+ * __Week7__: Distributed Systems Fundamentals: Process Coordination, Concurrency.
 *   Consistent Hashing, Key Value Store (Case Study)
 * __Week8__: Reliable storage and File Systems
 * __Exam Week__: No classes
