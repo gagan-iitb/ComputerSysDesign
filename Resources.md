@@ -1,8 +1,24 @@
-__All the assignments will assume familiarity with cloud services such as AWS. Familiarity with it is a pre-requisite__
+__AWS Essentials__
 The following courses may be helpful to you:
 * __https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner__
 * __https://www.coursera.org/learn/aws-cloud-practitioner-essentials__
 * __https://aws.amazon.com/getting-started/hands-on__
+
+__Rate Limter Implementations__
+
+Using Redis:
+https://github.com/redis-developer/basic-rate-limiting-demo-python?tab=readme-ov-file
+
+Java based:
+https://github.com/vishalratna-microsoft/JavaSystemDesign/tree/master/src/main/java/org/example/ratelimiter
+
+__Queueing Theory Simulator__
+
+* MATLAB Simulink: https://in.mathworks.com/discovery/queuing-theory.html
+
+* R package: https://ace-ebert.shinyapps.io/queue_simulator_mmk/
+
+
 
 __Reference Books__
 
@@ -32,11 +48,6 @@ https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/
 
 https://martinfowler.com/articles/patterns-of-distributed-systems/
 
-__Queueing Theory Simulator__
-
-* MATLAB Simulink: https://in.mathworks.com/discovery/queuing-theory.html
-
-* R package: https://ace-ebert.shinyapps.io/queue_simulator_mmk/
 
 
 __Similar courses available in other institute(s) / MOOC portals:__
