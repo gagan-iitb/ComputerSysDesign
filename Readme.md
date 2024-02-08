@@ -66,6 +66,6 @@ __Detailed Schedule__
 * __Feb5-9__: Rate Limiter (Case Study), Open and Closed Systems
  * __Week7__: Distributed Systems Fundamentals: Process Coordination, Concurrency.
 *   Consistent Hashing, Key Value Store (Case Study)
-* __Week8__: Reliable storage and File Systems
 * __Exam Week__: No classes
+* __Week8__: Reliable storage and File Systems
 * __Research Papers__: After exam 1, we will switch gears and study both classical and recent papers on 3 main topics: Caching, DBs, ML Systems.
