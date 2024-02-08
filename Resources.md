@@ -5,9 +5,15 @@ The following courses may be helpful to you:
 * __https://aws.amazon.com/getting-started/hands-on__
 
 __Rate Limter Implementations__
-
+        * https://blog.bytebytego.com/p/rate-limiter-for-the-real-world
+        * https://builtin.com/software-engineering-perspectives/rate-limiter
+        * https://medium.com/@saisandeepmopuri/system-design-rate-limiter-and-data-modelling-9304b0d18250
+  
 Using Redis:
-https://github.com/redis-developer/basic-rate-limiting-demo-python?tab=readme-ov-file
+* https://github.com/redis-developer/basic-rate-limiting-demo-python?tab=readme-ov-file
+* https://gist.github.com/ptarjan/e38f45f2dfe601419ca3af937fff574d#request-rate-limiter
+* https://engineering.classdojo.com/blog/2015/02/06/rolling-rate-limiter/
+
 
 Java based:
 https://github.com/vishalratna-microsoft/JavaSystemDesign/tree/master/src/main/java/org/example/ratelimiter
