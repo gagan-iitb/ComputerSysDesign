@@ -26,7 +26,11 @@ __Queueing Theory Simulator__
 
 * R package: https://ace-ebert.shinyapps.io/queue_simulator_mmk/
 
+__Consistent Hashing___
 
+* https://en.wikipedia.org/wiki/Consistent_hashing
+* https://tom-e-white.com/2007/11/consistent-hashing.html
+* https://theory.stanford.edu/~tim/s16/l/l1.pdf
 
 __Reference Books__
 
