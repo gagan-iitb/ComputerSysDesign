@@ -28,6 +28,7 @@ __Queueing Theory Simulator__
 
 __Consistent Hashing___
 
+* https://systemdesign.one/consistent-hashing-explained/
 * https://en.wikipedia.org/wiki/Consistent_hashing
 * https://tom-e-white.com/2007/11/consistent-hashing.html
 * https://theory.stanford.edu/~tim/s16/l/l1.pdf
@@ -59,7 +60,7 @@ https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/
 
 https://martinfowler.com/articles/patterns-of-distributed-systems/
 
-
+Important Algorithms: https://blog.bytebytego.com/p/algorithms-you-should-know-before
 
 __Similar courses available in other institute(s) / MOOC portals:__
 
