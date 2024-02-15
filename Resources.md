@@ -62,6 +62,8 @@ https://martinfowler.com/articles/patterns-of-distributed-systems/
 
 Important Algorithms: https://blog.bytebytego.com/p/algorithms-you-should-know-before
 
+ByteByteGo's List of System Design Resources: https://github.com/alex-xu-system/bytebytego/blob/main/system_design_links.md
+
 __Similar courses available in other institute(s) / MOOC portals:__
 
 * MIT 6.033: Computer Systems Engineering (http://web.mit.edu/6.033/www/ )
