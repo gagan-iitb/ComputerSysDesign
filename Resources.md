@@ -32,7 +32,9 @@ __Consistent Hashing___
 * https://en.wikipedia.org/wiki/Consistent_hashing
 * https://tom-e-white.com/2007/11/consistent-hashing.html
 * https://theory.stanford.edu/~tim/s16/l/l1.pdf
-
+* Code: https://arpitbhayani.me/blogs/consistent-hashing/
+* Algo: http://highscalability.com/blog/2023/2/22/consistent-hashing-algorithm.html
+* 
 __Reference Books__
 
 1. [SJK] Saltzer, Jerome H. and M. Frans Kaashoek. 2009, Principles of Computer System Design: An Introduction, Part I. Morgan Kaufmann, ISBN: 9780123749574. Part II
