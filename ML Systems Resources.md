@@ -1,3 +1,6 @@
+9 step ML system design approach: https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/src/MLSD/ml-system-design.md
+
+
 Made with ML: https://madewithml.com/
 
 Ray: 
