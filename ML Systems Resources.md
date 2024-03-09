@@ -1,3 +1,11 @@
+MLOPS links:
+https://neptune.ai/blog/recommender-systems-lessons-from-building-and-deployment
+https://eugeneyan.com/speaking/mlops-community-recsys/
+https://hktw-resources.awscloud.com/webinar-slides/introduction-to-mlops
+
+
+
+
 9 step ML system design approach: https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/src/MLSD/ml-system-design.md
 
 
