@@ -1,7 +1,7 @@
 MLOPS links:
-* https://neptune.ai/blog/recommender-systems-lessons-from-building-and-deployment
-* https://eugeneyan.com/speaking/mlops-community-recsys/
-* https://hktw-resources.awscloud.com/webinar-slides/introduction-to-mlops
+* https://neptune.ai/blog/recommender-systems-lessons-from-building-and-deployment: This blog is about of some of the key lessons from building and deploying recommender systems in the real world. You can learn about online metrics.
+* https://eugeneyan.com/speaking/mlops-community-recsys/: Shows the offline and online architecture and how to generate recommendations at a low cost
+* https://hktw-resources.awscloud.com/webinar-slides/introduction-to-mlops: AWS tools meant to simplify deployment of ML models 
 
 
 
