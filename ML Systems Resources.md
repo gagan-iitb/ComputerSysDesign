@@ -2,6 +2,9 @@ MLOPs Software:
 
 Book: https://www.manning.com/books/effective-data-science-infrastructure
 
+Code from the book chapters can be found here: https://github.com/outerbounds/dsbook
+
+
 We will discuss and compare a few tools available for MLOps: Airflow, MLflow, and MetaFlow
 
 __MetaFlow__: Allows you to define a flow with multiple steps as a DAG. Each step can define the tasks to be done, artifacts (data) to be generated, metadata, and the next steps.
