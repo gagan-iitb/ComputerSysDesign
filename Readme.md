@@ -26,9 +26,12 @@ The students will be able to apply the technical material taught in the lecture 
 
 • How to measure system performance and what can we do to improve performance and scalability?
 
+* How to design and deploy ML systems?
+
 __Pre-requisites__
 
-Undergraduate course in Computer Networks and Operating Systems 
+Undergraduate course in Computer Networks and Operating Systems. Basic courses in data science and ML (DS250, DS200, CS550)
+
 
 __Class Timings and Location__
 
@@ -45,7 +48,7 @@ __Textbook/Reference books:__
 
 1. [MB] Mor Harchol-Balter, February 2013, Performance Modeling and Design of Computer Systems: Queueing Theory in Action, Cambridge University Press
 
-2. [UDS] Roberto Vitillo, Understanding Distributed Systems, https://understandingdistributed.systems/ : Simplified and easy to follow description of essential concepts on a wide range of topics
+2. [UDS] Roberto Vitillo, Understanding Distributed Systems, https://understandingdistributed.systems/ : Simplified and easy-to-follow description of essential concepts on a wide range of topics
 3. [EDSI] Ville Tuulos, Effective Data Science Infrastructure: How to Make Data Scientists Productive, Manning Publications.
 
 
