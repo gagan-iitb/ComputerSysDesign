@@ -1,6 +1,6 @@
 # Course Page for CS559 (Computer Systems Design)
 
-To be taught at IIT Bhilai, India in the Winter Semester of 2024. 
+Being taught at IIT Bhilai, India in the Winter Semester of 2024. 
 
 __Course Instructor:__ [Dr. Gagan Raj Gupta ](https://www.iitbhilai.ac.in/index.php?pid=gagan) 
 
