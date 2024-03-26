@@ -45,7 +45,9 @@ __Textbook/Reference books:__
 
 1. [MB] Mor Harchol-Balter, February 2013, Performance Modeling and Design of Computer Systems: Queueing Theory in Action, Cambridge University Press
 
-2. [UDS] https://understandingdistributed.systems/ : Simplified and easy to follow description of essential concepts on a wide range of topics
+2. [UDS] Roberto Vitillo, Understanding Distributed Systems, https://understandingdistributed.systems/ : Simplified and easy to follow description of essential concepts on a wide range of topics
+3. [EDSI] Ville Tuulos, Effective Data Science Infrastructure: How to Make Data Scientists Productive, Manning Publications.
+
 
 __Grading Plan__
 
