@@ -54,10 +54,10 @@ __Textbook/Reference books:__
 
 __Grading Plan__
 
-* 2 Exams: 50%
-* Weekly System Design Exercise (In class): 15% [will mimic system design interviews]
+* 2 Exams: 45%
+* Weekly System Design Exercise (In class): 25% [will mimic system design interviews]
 * 1 Assignment: 10%
-* 1 Project: 25% [Project will include a mock interview]
+* 1 Project: 20% [Project will include a mock interview]
 
 The assignment is individual. The project will be end-to-end (full stack) in a team. Students are encouraged to build balanced teams [front-end developer, back-end developer, ML engineer, tester, architect roles] 
 
