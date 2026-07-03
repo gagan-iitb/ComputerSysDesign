@@ -1,6 +1,6 @@
 # Course Page for CS559 (Computer Systems Design)
 
-Being taught at IIT Bhilai, India in the Winter Semester of 2024. 
+Being taught at IIT Bhilai, India in the Monsoon Semester of 2026. 
 
 __Course Instructor:__ [Dr. Gagan Raj Gupta ](https://www.iitbhilai.ac.in/index.php?pid=gagan) 
 
@@ -35,27 +35,27 @@ Undergraduate course in Computer Networks and Operating Systems. Basic courses i
 
 __Class Timings and Location__
 
-Lecture Room: L102
-Lecture Timings: 8:30 a.m. to 9:30 a.m. On Mondays and 9:30 am -10:30 am on Wednesdays and Friday
+Lecture Room: TBD
+Lecture Timings: TBD
+Lab Timings: TBD
 
 __Course Materials__
 
 * Google Drive Link with Lecture materials for IIT Bhilai Students: [GDrive](https://drive.google.com/drive/folders/1i0VtvMyIu4FIVmAxFJ81NnOdoT1atasW)
 
-* Canvas Link for registered Students (for Assignments and Discussions): [Canvas](https://canvas.instructure.com/courses/4085885)
-
 __Textbook/Reference books:__
 
 1. [MB] Mor Harchol-Balter, February 2013, Performance Modeling and Design of Computer Systems: Queueing Theory in Action, Cambridge University Press
-
 2. [UDS] Roberto Vitillo, Understanding Distributed Systems, https://understandingdistributed.systems/ : Simplified and easy-to-follow description of essential concepts on a wide range of topics
 3. [EDSI] Ville Tuulos, Effective Data Science Infrastructure: How to Make Data Scientists Productive, Manning Publications.
+4. [MLSys] Vijay Reddy, 2026, Introduction to ML systems, ML systems at Scale. https://mlsysbook.ai/
+5. [PDS] Unmesh Joshi, 2023, Patterns of Distributed Systems. https://martinfowler.com/books/patterns-distributed.html
 
 
 __Grading Plan__
 
-* 2 Exams: 45%
-* Weekly System Design Exercise (In class): 25% [will mimic system design interviews]
+* 2 Exams: 60%
+* Weekly System Design Exercise (In class): 10% [will mimic system design interviews]
 * 1 Assignment: 10%
 * 1 Project: 20% [Project will include a mock interview]
 
