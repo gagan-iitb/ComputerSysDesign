@@ -56,6 +56,7 @@ __Grading Plan__
 
 * 2 Exams: 60%
 * Weekly System Design Exercise (In class): 10% [will mimic system design interviews]
+* Qualifying Test (1st class): Mandatory to pass in order to continue the course.
 * 1 Assignment: 10%
 * 1 Project: 20% [Project will include a mock interview]
 
