@@ -57,8 +57,8 @@ __Grading Plan__
 * **Qualifying Test (1st class): Mandatory to pass in order to continue the course.**
 * 2 Exams: 50%
 * **Attendance and Systems Design Notebook: 20%** Mandatory to maintain a dedicated notebook for the course, where you will maintain lecture notes with date, solve the system design questions and homeworks assigned in the course. Instructor will check notebooks at regular intervals and give marks accordingly. Digital notes and solutions won't be considered.
-* 1 Assignment: 10%
-* 1 Project: 20% [Project will include a mock interview]
+* 1 Assignment + Lab exercises: 15%
+* 1 Project: 15% [Project will include a mock interview]
 
 The assignment is individual. The project will be end-to-end (full stack) in a team. Students are encouraged to build balanced teams [front-end developer, back-end developer, ML engineer, tester, architect roles] 
 
