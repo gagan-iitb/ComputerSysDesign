@@ -54,9 +54,9 @@ __Textbook/Reference books:__
 
 __Grading Plan__
 
-* 2 Exams: 60%
-* Weekly System Design Exercise (In class): 10% [will mimic system design interviews]
-* Qualifying Test (1st class): Mandatory to pass in order to continue the course.
+* **Qualifying Test (1st class): Mandatory to pass in order to continue the course.**
+* 2 Exams: 50%
+* **Attendance and Systems Design Notebook: 20%** Mandatory to maintain a dedicated notebook for the course, where you will maintain lecture notes with date, solve the system design questions and homeworks assigned in the course. Instructor will check notebooks at regular intervals and give marks accordingly. Digital notes and solutions won't be considered.
 * 1 Assignment: 10%
 * 1 Project: 20% [Project will include a mock interview]
 
