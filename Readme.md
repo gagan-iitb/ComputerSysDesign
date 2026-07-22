@@ -62,6 +62,17 @@ __Grading Plan__
 
 The assignment is individual. The project will be end-to-end (full stack) in a team. Students are encouraged to build balanced teams [front-end developer, back-end developer, ML engineer, tester, architect roles] 
 
+__Letter Grades__
+Grades will be awarded on absolute marks.
+A: 90+
+A-: 85+
+B: 80+
+B-: 75+
+C: 65+
+C-: 55+
+D: 45+
+F< 45
+
 __Detailed Schedule__
 
 * __Week1__: Introduction to the course, modularity, building a Campus Service Application, Building Blocks of AWS (reading assignment)
