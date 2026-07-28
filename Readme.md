@@ -75,14 +75,13 @@ F< 45
 
 __Detailed Schedule__
 
-* __Week1__: Introduction to the course, modularity, building a Campus Service Application, Building Blocks of AWS (reading assignment)
+* __Week1__: Introduction to the course, modularity, building a Student Centric Career Management Application, Building Blocks of AWS (reading assignment)
 * __Week2__: Building Reliable and Secure Communications, Networks, API Design 
 * __Week3__: Design for Maintainability: testing, tracing, logging, metrics
 * __Week4__: System Design Interview Preparation, High-Level Design, Back of Envelope Calculations, Detailed Design
-* __Week5__: System Scalability and performance analysis basics
-* __Feb5-9__: Rate Limiter (Case Study), Open and Closed Systems
- * __Week7__: Distributed Systems Fundamentals: Process Coordination, Concurrency.
-*   Consistent Hashing, 
+* __Week5__: System Scalability and performance analysis basics, load balancing
+* __Week6__: Workload Characterization, Rate Limiter (Case Study), Open and Closed Systems
+ * __Week7__: Reliable storage and File Systems, Key Value Store (Case Study). 
 * __Exam Week__: No classes
-* __Week8__: Reliable storage and File Systems, Key Value Store (Case Study)
-* __Research Papers__: After exam 1, we will switch gears and study both classical and recent papers on 3 main topics: Caching, DBs, ML Systems.
+* __Week8__:  Distributed Systems Fundamentals: Process Coordination, Concurrency, Consistent Hashing, 
+* __Research Papers__: After exam 1, we will focus on: Caching, DBs, Patterns of Distributed Systems
