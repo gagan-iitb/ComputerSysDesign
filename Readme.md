@@ -81,6 +81,10 @@ __Detailed Schedule and Topics covered in class 2026__
 *  Assignment 1 on Water Harvesting design for a village using Satellite images.
 *  High Level Design is due on August 10, must be made in your course notebook. 
 
+__Detailed description of Assignment 1:__
+We are developing an application for village management to plan the placement of ponds in their village.
+This involves analyzing contour maps, marking potential regions such as govt land for digging ponds, estimating the catchment area, querying rainfall data, estimating pond depth to catch heavy rainfall and presenting the results to the user.
+
 
 ____OLD STUFF__
 * __Week2__: Building Reliable and Secure Communications, Networks, API Design 
