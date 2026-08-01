@@ -75,8 +75,11 @@ F< 45
 
 __Detailed Schedule and Topics covered in class 2026__
 
-* __Week1__: Introduction to the course, modularity, layering, naming, emergent properties, trade-offs. Assignment 1 on Water Harvesting design for a village using Satellite images.
-Lecture 1: We discussed Debugging code, Debugging an unreachable website.
+* __Week1__: Introduction to the course, modularity, layering, naming, emergent properties, trade-offs. 
+*  Lecture 1: We discussed how modularity decreased the effort to debug code, Debugging an unreachable website.
+*  Lecture 2: Collision Avoidance in Wi-FI and TCP Congestion Control, and their interaction.
+*  Assignment 1 on Water Harvesting design for a village using Satellite images.
+*  High Level Design is due on August 10, must be made in your course notebook. 
 
 
 ____OLD STUFF__
