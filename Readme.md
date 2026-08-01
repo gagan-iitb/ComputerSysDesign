@@ -35,9 +35,9 @@ Undergraduate course in Computer Networks and Operating Systems. Basic courses i
 
 __Class Timings and Location__
 
-Lecture Room: TBD
-Lecture Timings: TBD
-Lab Timings: TBD
+Lecture Room: LH101
+Lecture Timings: 2:30-3:30 pm on Monday, Wed and Fridays
+Lab Timings: 3:30-5:30 pm on Fridays in LH101
 
 __Course Materials__
 
@@ -73,9 +73,13 @@ C-: 55+
 D: 45+
 F< 45
 
-__Detailed Schedule__
+__Detailed Schedule and Topics covered in class 2026__
 
-* __Week1__: Introduction to the course, modularity, building a Student Centric Career Management Application, Building Blocks of AWS (reading assignment)
+* __Week1__: Introduction to the course, modularity, layering, naming, emergent properties, trade-offs. Assignment 1 on Water Harvesting design for a village using Satellite images.
+Lecture 1: We discussed Debugging code, Debugging an unreachable website.
+
+
+____OLD STUFF__
 * __Week2__: Building Reliable and Secure Communications, Networks, API Design 
 * __Week3__: Design for Maintainability: testing, tracing, logging, metrics
 * __Week4__: System Design Interview Preparation, High-Level Design, Back of Envelope Calculations, Detailed Design
