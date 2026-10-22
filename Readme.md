@@ -86,17 +86,27 @@ We are developing an application for village management to plan the placement of
 This involves analyzing contour maps, marking potential regions such as govt land for digging ponds, estimating the catchment area, querying rainfall data, estimating pond depth to catch heavy rainfall and presenting the results to the user.
 
 __RESEARCH PAPERS AND READINGS__
-DBMS Architecture: https://www.cs.cmu.edu/~15721-f25/papers/DBMS_Architecture.pdf
-Clickhouse Paper: https://www.vldb.org/pvldb/vol17/p3731-schulze.pdf
-Lakehouse: https://www.cs.cmu.edu/~15721-f25/papers/Lakehouse.pdf
-Advanced Query processing in Lakehouse: https://www.cs.cmu.edu/~15721-f25/papers/AQP_in_Lakehouse.pdf
-Snowflake: https://www.cs.cmu.edu/~15721-f25/papers/Snowflake_Disaggregated.pdf
-BigLake: https://www.cs.cmu.edu/~15721-f25/papers/BigLake.pdf
-Dremel: https://www.cs.cmu.edu/~15721-f25/papers/Dremel.pdf
-Join Ordering: https://arxiv.org/pdf/2502.15181
-Query Optimizers: https://www.cs.cmu.edu/~15721-f25/papers/ML_QO_vs_AQP.pdf
-FINGER: Fast approx nearest neighbors: https://arxiv.org/abs/2206.11408
-Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search: https://arxiv.org/abs/2510.05975
+* DBMS Architecture: https://www.cs.cmu.edu/~15721-f25/papers/DBMS_Architecture.pdf
+
+* Clickhouse Paper: https://www.vldb.org/pvldb/vol17/p3731-schulze.pdf
+
+* Lakehouse: https://www.cs.cmu.edu/~15721-f25/papers/Lakehouse.pdf
+
+* Advanced Query processing in Lakehouse: https://www.cs.cmu.edu/~15721-f25/papers/AQP_in_Lakehouse.pdf
+
+* Snowflake: https://www.cs.cmu.edu/~15721-f25/papers/Snowflake_Disaggregated.pdf
+
+* BigLake: https://www.cs.cmu.edu/~15721-f25/papers/BigLake.pdf
+
+* Dremel: https://www.cs.cmu.edu/~15721-f25/papers/Dremel.pdf
+
+* Join Ordering: https://arxiv.org/pdf/2502.15181
+
+* Query Optimizers: https://www.cs.cmu.edu/~15721-f25/papers/ML_QO_vs_AQP.pdf
+
+* FINGER: Fast approx nearest neighbors: https://arxiv.org/abs/2206.11408
+
+* Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search: https://arxiv.org/abs/2510.05975
 
 
 
