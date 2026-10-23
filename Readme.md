@@ -107,6 +107,8 @@ __RESEARCH PAPERS AND READINGS__
 * FINGER: Fast approx nearest neighbors: https://arxiv.org/abs/2206.11408
 
 * Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search: https://arxiv.org/abs/2510.05975
+* Six Dimensions of benchmarking Time Series Database: https://arxiv.org/pdf/2608.01459
+* Survey of Time Series DB: https://nora.nerc.ac.uk/id/eprint/527832/7/N527832CR.pdf
 
 * CAP Twelve Years Later: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf
 * Eventual consistency: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/bailis-calm.pdf
