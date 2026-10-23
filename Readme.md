@@ -108,6 +108,11 @@ __RESEARCH PAPERS AND READINGS__
 
 * Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search: https://arxiv.org/abs/2510.05975
 
+* CAP Twelve Years Later: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf
+* Eventual consistency: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/bailis-calm.pdf
+* Virtualization notes: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/notes/Virtualization/virtualization.html
+
+
 
 
 
