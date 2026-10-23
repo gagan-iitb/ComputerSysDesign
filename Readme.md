@@ -50,7 +50,7 @@ __Textbook/Reference books:__
 3. [EDSI] Ville Tuulos, Effective Data Science Infrastructure: How to Make Data Scientists Productive, Manning Publications.
 4. [MLSys] Vijay Reddy, 2026, Introduction to ML systems, ML systems at Scale. https://mlsysbook.ai/
 5. [PDS] Unmesh Joshi, 2023, Patterns of Distributed Systems. https://martinfowler.com/books/patterns-distributed.html
-
+6. [VDB] N Borwankar, 2026, Vector Databases, https://github.com/nborwankar/VectorDatabaseBook
 
 __Grading Plan__
 
