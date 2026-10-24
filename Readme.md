@@ -114,7 +114,10 @@ __RESEARCH PAPERS AND READINGS__
 * Eventual consistency: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/bailis-calm.pdf
 * Virtualization notes: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/notes/Virtualization/virtualization.html
 
+* Geospatial Indexing: https://h3geo.org/docs/   https://s2geometry.io/
+https://redis.io/glossary/geospatial-indexing/
 
+* 
 
 
 
