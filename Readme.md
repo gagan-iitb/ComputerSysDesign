@@ -107,6 +107,9 @@ __RESEARCH PAPERS AND READINGS__
 * Query Optimizers: https://www.cs.cmu.edu/~15721-f25/papers/ML_QO_vs_AQP.pdf
 
 * FINGER: Fast approx nearest neighbors: https://arxiv.org/abs/2206.11408
+* HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search: https://dl.acm.org/doi/10.1145/3749167
+* Manu: A Cloud Native Vector Database Management System: https://arxiv.org/abs/2206.13843
+
 
 * Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search: https://arxiv.org/abs/2510.05975
 * Six Dimensions of benchmarking Time Series Database: https://arxiv.org/pdf/2608.01459
