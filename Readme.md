@@ -88,6 +88,8 @@ This involves analyzing contour maps, marking potential regions such as govt lan
 __RESEARCH PAPERS AND READINGS__
 * DBMS Architecture: https://www.cs.cmu.edu/~15721-f25/papers/DBMS_Architecture.pdf
 
+* Bigtable: A Distributed Storage System for Structured Data : https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
+  
 * Clickhouse Paper: https://www.vldb.org/pvldb/vol17/p3731-schulze.pdf
 
 * Lakehouse: https://www.cs.cmu.edu/~15721-f25/papers/Lakehouse.pdf
