@@ -143,4 +143,7 @@ __DEBUGGING DISTRIBUTED SYSTEMS__
 * CSnake: Detecting Self-Sustaining Cascading Failure via Causal Stitching of Fault Propagations: https://arxiv.org/abs/2509.26529
 * UpFuzz: Detecting Data Format Incompatibility Bugs during Distributed Storage System Upgrade: https://yonglezh-purdue.github.io/files/nsdi26-upfuzz.pdf
 * Vicious Cycles in Distributed Software Systems: https://www.cs.purdue.edu/homes/lintan/publications/vc-ase23.pdf
-  
+
+__Fair Pricing and Allocation__
+Crowdshipping: https://onlinelibrary.wiley.com/doi/10.1002/joom.70046
+Envy-free dynamic pricing schemes: https://arxiv.org/abs/2301.01529
