@@ -82,6 +82,25 @@ Interview Guide:
 https://www.systemdesignhandbook.com/guides/system-design-interview/
 
 
+Booking systems and database internals 
+Hotel Booking System: https://bytebytego.com/courses/system-design-interview/hotel-reservation-system
+https://www.geeksforgeeks.org/system-design/system-design-of-airbnb-hotel-reservation-system/
+Research Paper (High Availability): https://arxiv.org/html/1302.0309v2
+https://redis.io/glossary/acid-transactions/
+Research paper (Concurrency control as a service ): https://www.vldb.org/pvldb/vol18/p2761-zhou.pdf
+Research paper (workload model): https://dl.acm.org/doi/pdf/10.1145/3725268
+
+Navigation services 
+https://grokkingthesystemdesign.com/guides/uber-system-design/
+https://navicampus.app
+https://github.com/dpshah23/Campus-Path-Shortner
+https://about.mappls.com/
+https://blinkit.com/blog/
+https://shyamfuture.com/how-blinkit-used-real-time-ux-and-hyperlocal-tech-to-win-quick-commerce/?srsltid=AU7gw4W6wgouROEMgp7yQlbzTveGFaSVXsGIf-JEXdob96dB_8T_Cc8D
+https://github.com/Richardmsbr/system-design-architecture/blob/master/designs/uber.md
+https://highscalability.com/designing-uber/
+https://ramendraparmar.substack.com/p/system-design-of-uber-real-time-location
+
 
 
 __Similar courses available in other institute(s) / MOOC portals:__
