@@ -88,6 +88,8 @@ This involves analyzing contour maps, marking potential regions such as govt lan
 __RESEARCH PAPERS AND READINGS__
 * DBMS Architecture: https://www.cs.cmu.edu/~15721-f25/papers/DBMS_Architecture.pdf
 
+
+__Large scale Data Processing__
 * Bigtable: A Distributed Storage System for Structured Data : https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
   
 * Clickhouse Paper: https://www.vldb.org/pvldb/vol17/p3731-schulze.pdf
@@ -106,12 +108,13 @@ __RESEARCH PAPERS AND READINGS__
 
 * Query Optimizers: https://www.cs.cmu.edu/~15721-f25/papers/ML_QO_vs_AQP.pdf
 
+__VECTOR DBS__
 * FINGER: Fast approx nearest neighbors: https://arxiv.org/abs/2206.11408
 * HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search: https://dl.acm.org/doi/10.1145/3749167
 * Manu: A Cloud Native Vector Database Management System: https://arxiv.org/abs/2206.13843
-
-
 * Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search: https://arxiv.org/abs/2510.05975
+
+__TIME SERIES DB__
 * Six Dimensions of benchmarking Time Series Database: https://arxiv.org/pdf/2608.01459
 * Survey of Time Series DB: https://nora.nerc.ac.uk/id/eprint/527832/7/N527832CR.pdf
 
@@ -122,7 +125,25 @@ __RESEARCH PAPERS AND READINGS__
 * Geospatial Indexing: https://h3geo.org/docs/   https://s2geometry.io/
 https://redis.io/glossary/geospatial-indexing/
 
-* 
+__Root Cause Analysis__
+* The Inflection Point Hypothesis: A Principled Debugging Approach for Locating the Root Cause of a Failure: https://yonglezh-purdue.github.io/files/sosp19-kairux.pdf
+* Relational Debugging --- Pinpointing Root Causes of Performance Problems: https://www.usenix.org/conference/osdi23/presentation/ren
+* AURORA: Statistical Crash Analysis for Automated Root Cause Explanation: https://www.usenix.org/conference/usenixsecurity20/presentation/blazytko
+* The inflection point hypothesis: a principled debugging approach for locating the root cause of a failure: https://dl.acm.org/doi/10.1145/3341301.3359650
+
+__LOG ANALYSIS__
+* When Sampling Lies: Trustworthy Performance Profiling for Flat Workloads with Blink (Operational Systems): https://www.usenix.org/system/files/osdi26-devsot.pdf
+* Be Conservative: Enhancing Failure Diagnosis with Proactive Logging: https://drive.google.com/file/d/1VTxeHtTA_aN72mlw4jVttEgbxMlUIzYa/view
+* Simple Testing Can Prevent Most Critical Failures: https://www.eecg.utoronto.ca/~yuan/papers/failure_analysis_osdi14.pdf
+* μSlope: High Compression and Fast Search on Semi-Structured Logs: https://www.usenix.org/system/files/osdi24-wang-rui.pdf
+
+__DEBUGGING DISTRIBUTED SYSTEMS__
+* Demystifying the Fight Against Complexity: A Comprehensive Study of Live Debugging Activities in Production Cloud Systems: https://yonglezh-purdue.github.io/files/socc24-live-debugging-ppt.pdf
+* CSnake: Detecting Self-Sustaining Cascading Failure via Causal Stitching of Fault Propagations: https://arxiv.org/abs/2509.26529
+* UpFuzz: Detecting Data Format Incompatibility Bugs during Distributed Storage System Upgrade: https://yonglezh-purdue.github.io/files/nsdi26-upfuzz.pdf
+* Vicious Cycles in Distributed Software Systems: https://www.cs.purdue.edu/homes/lintan/publications/vc-ase23.pdf
+  
+
 
 
 
