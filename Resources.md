@@ -66,6 +66,24 @@ Important Algorithms: https://blog.bytebytego.com/p/algorithms-you-should-know-b
 
 ByteByteGo's List of System Design Resources: https://github.com/alex-xu-system/bytebytego/blob/main/system_design_links.md
 
+__High level design__
+https://www.systemdesignhandbook.com/guides/system-design/
+https://www.systemdesignhandbook.com/guides/system-design-primer/
+
+
+Read the detailed design here:
+https://www.systemdesignhandbook.com/guides/google-drive-system-design/
+Dropbox, Leetcode, Instagram:
+https://www.systemdesignhandbook.com/guides/design-dropbox/
+https://www.systemdesignhandbook.com/guides/design-leetcode/
+https://www.systemdesignhandbook.com/guides/design-instagram/
+
+Interview Guide:
+https://www.systemdesignhandbook.com/guides/system-design-interview/
+
+
+
+
 __Similar courses available in other institute(s) / MOOC portals:__
 
 * MIT 6.033: Computer Systems Engineering (http://web.mit.edu/6.033/www/ )
