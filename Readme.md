@@ -86,8 +86,18 @@ We are developing an application for village management to plan the placement of
 This involves analyzing contour maps, marking potential regions such as govt land for digging ponds, estimating the catchment area, querying rainfall data, estimating pond depth to catch heavy rainfall and presenting the results to the user.
 
 __RESEARCH PAPERS AND READINGS__
-* DBMS Architecture: https://www.cs.cmu.edu/~15721-f25/papers/DBMS_Architecture.pdf
 
+__DB fundamentals__
+* DBMS Architecture: https://www.cs.cmu.edu/~15721-f25/papers/DBMS_Architecture.pdf
+* CAP Twelve Years Later: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf
+* Eventual consistency: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/bailis-calm.pdf
+* Virtualization notes: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/notes/Virtualization/virtualization.html
+
+__VECTOR DBS__
+* FINGER: Fast approx nearest neighbors: https://arxiv.org/abs/2206.11408
+* HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search: https://dl.acm.org/doi/10.1145/3749167
+* Manu: A Cloud Native Vector Database Management System: https://arxiv.org/abs/2206.13843
+* Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search: https://arxiv.org/abs/2510.05975
 
 __Large scale Data Processing__
 * Bigtable: A Distributed Storage System for Structured Data : https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
@@ -108,20 +118,11 @@ __Large scale Data Processing__
 
 * Query Optimizers: https://www.cs.cmu.edu/~15721-f25/papers/ML_QO_vs_AQP.pdf
 
-__VECTOR DBS__
-* FINGER: Fast approx nearest neighbors: https://arxiv.org/abs/2206.11408
-* HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search: https://dl.acm.org/doi/10.1145/3749167
-* Manu: A Cloud Native Vector Database Management System: https://arxiv.org/abs/2206.13843
-* Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search: https://arxiv.org/abs/2510.05975
-
 __TIME SERIES DB__
 * Six Dimensions of benchmarking Time Series Database: https://arxiv.org/pdf/2608.01459
 * Survey of Time Series DB: https://nora.nerc.ac.uk/id/eprint/527832/7/N527832CR.pdf
 
-* CAP Twelve Years Later: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf
-* Eventual consistency: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/bailis-calm.pdf
-* Virtualization notes: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/notes/Virtualization/virtualization.html
-
+__Geospatial Indexing__
 * Geospatial Indexing: https://h3geo.org/docs/   https://s2geometry.io/
 https://redis.io/glossary/geospatial-indexing/
 
