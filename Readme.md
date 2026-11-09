@@ -144,22 +144,3 @@ __DEBUGGING DISTRIBUTED SYSTEMS__
 * UpFuzz: Detecting Data Format Incompatibility Bugs during Distributed Storage System Upgrade: https://yonglezh-purdue.github.io/files/nsdi26-upfuzz.pdf
 * Vicious Cycles in Distributed Software Systems: https://www.cs.purdue.edu/homes/lintan/publications/vc-ase23.pdf
   
-
-
-
-
-
-
-
-
-
-____OLD STUFF__
-* __Week2__: Building Reliable and Secure Communications, Networks, API Design 
-* __Week3__: Design for Maintainability: testing, tracing, logging, metrics
-* __Week4__: System Design Interview Preparation, High-Level Design, Back of Envelope Calculations, Detailed Design
-* __Week5__: System Scalability and performance analysis basics, load balancing
-* __Week6__: Workload Characterization, Rate Limiter (Case Study), Open and Closed Systems
- * __Week7__: Reliable storage and File Systems, Key Value Store (Case Study). 
-* __Exam Week__: No classes
-* __Week8__:  Distributed Systems Fundamentals: Process Coordination, Concurrency, Consistent Hashing, 
-* __Research Papers__: After exam 1, we will focus on: Caching, DBs, Patterns of Distributed Systems
