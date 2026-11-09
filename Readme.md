@@ -99,32 +99,26 @@ __VECTOR DBS__
 * Manu: A Cloud Native Vector Database Management System: https://arxiv.org/abs/2206.13843
 * Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search: https://arxiv.org/abs/2510.05975
 
-__Large scale Data Processing__
+__Large scale Data Processing __
 * Bigtable: A Distributed Storage System for Structured Data : https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
-  
 * Clickhouse Paper: https://www.vldb.org/pvldb/vol17/p3731-schulze.pdf
-
 * Lakehouse: https://www.cs.cmu.edu/~15721-f25/papers/Lakehouse.pdf
-
 * Advanced Query processing in Lakehouse: https://www.cs.cmu.edu/~15721-f25/papers/AQP_in_Lakehouse.pdf
-
 * Snowflake: https://www.cs.cmu.edu/~15721-f25/papers/Snowflake_Disaggregated.pdf
-
 * BigLake: https://www.cs.cmu.edu/~15721-f25/papers/BigLake.pdf
-
 * Dremel: https://www.cs.cmu.edu/~15721-f25/papers/Dremel.pdf
-
-* Join Ordering: https://arxiv.org/pdf/2502.15181
-
-* Query Optimizers: https://www.cs.cmu.edu/~15721-f25/papers/ML_QO_vs_AQP.pdf
 
 __TIME SERIES DB__
 * Six Dimensions of benchmarking Time Series Database: https://arxiv.org/pdf/2608.01459
 * Survey of Time Series DB: https://nora.nerc.ac.uk/id/eprint/527832/7/N527832CR.pdf
+__QUERY optimization__
+* Join Ordering: https://arxiv.org/pdf/2502.15181
+* Query Optimizers: https://www.cs.cmu.edu/~15721-f25/papers/ML_QO_vs_AQP.pdf
 
 __Geospatial Indexing__
-* Geospatial Indexing: https://h3geo.org/docs/   https://s2geometry.io/
-https://redis.io/glossary/geospatial-indexing/
+* Geospatial Indexing: https://h3geo.org/docs/
+* https://s2geometry.io/
+* https://redis.io/glossary/geospatial-indexing/
 
 __Root Cause Analysis__
 * The Inflection Point Hypothesis: A Principled Debugging Approach for Locating the Root Cause of a Failure: https://yonglezh-purdue.github.io/files/sosp19-kairux.pdf
@@ -145,5 +139,6 @@ __DEBUGGING DISTRIBUTED SYSTEMS__
 * Vicious Cycles in Distributed Software Systems: https://www.cs.purdue.edu/homes/lintan/publications/vc-ase23.pdf
 
 __Fair Pricing and Allocation__
-Crowdshipping: https://onlinelibrary.wiley.com/doi/10.1002/joom.70046
-Envy-free dynamic pricing schemes: https://arxiv.org/abs/2301.01529
+* Crowdshipping: https://onlinelibrary.wiley.com/doi/10.1002/joom.70046
+* Envy-free dynamic pricing schemes: https://arxiv.org/abs/2301.01529
+* Dynamic access pricing control for fair and stable resource sharing: https://arxiv.org/pdf/2507.17939
