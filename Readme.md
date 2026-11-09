@@ -99,7 +99,7 @@ __VECTOR DBS__
 * Manu: A Cloud Native Vector Database Management System: https://arxiv.org/abs/2206.13843
 * Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search: https://arxiv.org/abs/2510.05975
 
-__Large scale Data Processing __
+__Large scale Data Processing__
 * Bigtable: A Distributed Storage System for Structured Data : https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
 * Clickhouse Paper: https://www.vldb.org/pvldb/vol17/p3731-schulze.pdf
 * Lakehouse: https://www.cs.cmu.edu/~15721-f25/papers/Lakehouse.pdf
