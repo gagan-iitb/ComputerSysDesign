@@ -88,58 +88,58 @@ This involves analyzing contour maps, marking potential regions such as govt lan
 __RESEARCH PAPERS AND READINGS__
 
 __DB fundamentals__
-* DBMS Architecture: https://www.cs.cmu.edu/~15721-f25/papers/DBMS_Architecture.pdf
-* CAP Twelve Years Later: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf
-* Eventual consistency: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/bailis-calm.pdf
-* Virtualization notes: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/notes/Virtualization/virtualization.html
+* __DBMS Architecture__: https://www.cs.cmu.edu/~15721-f25/papers/DBMS_Architecture.pdf
+* __CAP Twelve Years Later__: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf
+* __Eventual consistency__: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/bailis-calm.pdf
+* __Virtualization notes__: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/notes/Virtualization/virtualization.html
 
 __VECTOR DBS__
 * FINGER: Fast approx nearest neighbors: https://arxiv.org/abs/2206.11408
-* HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search: https://dl.acm.org/doi/10.1145/3749167
-* Manu: A Cloud Native Vector Database Management System: https://arxiv.org/abs/2206.13843
+* __HARMONY__: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search: https://dl.acm.org/doi/10.1145/3749167
+* __Manu__: A Cloud Native Vector Database Management System: https://arxiv.org/abs/2206.13843
 * Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search: https://arxiv.org/abs/2510.05975
 
 __Large scale Data Processing__
-* Bigtable: A Distributed Storage System for Structured Data : https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
+* __Bigtable__: A Distributed Storage System for Structured Data : https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
 * Clickhouse Paper: https://www.vldb.org/pvldb/vol17/p3731-schulze.pdf
-* Lakehouse: https://www.cs.cmu.edu/~15721-f25/papers/Lakehouse.pdf
+* __Lakehouse__: https://www.cs.cmu.edu/~15721-f25/papers/Lakehouse.pdf
 * Advanced Query processing in Lakehouse: https://www.cs.cmu.edu/~15721-f25/papers/AQP_in_Lakehouse.pdf
 * Snowflake: https://www.cs.cmu.edu/~15721-f25/papers/Snowflake_Disaggregated.pdf
 * BigLake: https://www.cs.cmu.edu/~15721-f25/papers/BigLake.pdf
-* Dremel: https://www.cs.cmu.edu/~15721-f25/papers/Dremel.pdf
+* __Dremel__: https://www.cs.cmu.edu/~15721-f25/papers/Dremel.pdf
 
 __TIME SERIES DB__
-* Six Dimensions of benchmarking Time Series Database: https://arxiv.org/pdf/2608.01459
+* __Six Dimensions of benchmarking Time Series Database__: https://arxiv.org/pdf/2608.01459
 * Survey of Time Series DB: https://nora.nerc.ac.uk/id/eprint/527832/7/N527832CR.pdf
 __QUERY optimization__
 * Join Ordering: https://arxiv.org/pdf/2502.15181
-* Query Optimizers: https://www.cs.cmu.edu/~15721-f25/papers/ML_QO_vs_AQP.pdf
+* __Query Optimizers__: https://www.cs.cmu.edu/~15721-f25/papers/ML_QO_vs_AQP.pdf
 
-__Geospatial Indexing__
-* Geospatial Indexing: https://h3geo.org/docs/
+__Geospatial Indexing All__
+* __Geospatial Indexing__: https://h3geo.org/docs/
 * https://s2geometry.io/
 * https://redis.io/glossary/geospatial-indexing/
 
-__Root Cause Analysis__
-* The Inflection Point Hypothesis: A Principled Debugging Approach for Locating the Root Cause of a Failure: https://yonglezh-purdue.github.io/files/sosp19-kairux.pdf
-* Relational Debugging --- Pinpointing Root Causes of Performance Problems: https://www.usenix.org/conference/osdi23/presentation/ren
-* AURORA: Statistical Crash Analysis for Automated Root Cause Explanation: https://www.usenix.org/conference/usenixsecurity20/presentation/blazytko
-* The inflection point hypothesis: a principled debugging approach for locating the root cause of a failure: https://dl.acm.org/doi/10.1145/3341301.3359650
+__Root Cause Analysis ALL__
+* __The Inflection Point Hypothesis__: A Principled Debugging Approach for Locating the Root Cause of a Failure: https://yonglezh-purdue.github.io/files/sosp19-kairux.pdf
+* __Relational Debugging__ --- Pinpointing Root Causes of Performance Problems: https://www.usenix.org/conference/osdi23/presentation/ren
+* __AURORA__: Statistical Crash Analysis for Automated Root Cause Explanation: https://www.usenix.org/conference/usenixsecurity20/presentation/blazytko
+
 
 __LOG ANALYSIS__
-* When Sampling Lies: Trustworthy Performance Profiling for Flat Workloads with Blink (Operational Systems): https://www.usenix.org/system/files/osdi26-devsot.pdf
+* __When Sampling Lies__: Trustworthy Performance Profiling for Flat Workloads with Blink (Operational Systems): https://www.usenix.org/system/files/osdi26-devsot.pdf
 * Be Conservative: Enhancing Failure Diagnosis with Proactive Logging: https://drive.google.com/file/d/1VTxeHtTA_aN72mlw4jVttEgbxMlUIzYa/view
 * Simple Testing Can Prevent Most Critical Failures: https://www.eecg.utoronto.ca/~yuan/papers/failure_analysis_osdi14.pdf
-* μSlope: High Compression and Fast Search on Semi-Structured Logs: https://www.usenix.org/system/files/osdi24-wang-rui.pdf
+* __μSlope__: High Compression and Fast Search on Semi-Structured Logs: https://www.usenix.org/system/files/osdi24-wang-rui.pdf
 
 __DEBUGGING DISTRIBUTED SYSTEMS__
 * Demystifying the Fight Against Complexity: A Comprehensive Study of Live Debugging Activities in Production Cloud Systems: https://yonglezh-purdue.github.io/files/socc24-live-debugging-ppt.pdf
-* CSnake: Detecting Self-Sustaining Cascading Failure via Causal Stitching of Fault Propagations: https://arxiv.org/abs/2509.26529
+* __CSnake__: Detecting Self-Sustaining Cascading Failure via Causal Stitching of Fault Propagations: https://arxiv.org/abs/2509.26529
 * UpFuzz: Detecting Data Format Incompatibility Bugs during Distributed Storage System Upgrade: https://yonglezh-purdue.github.io/files/nsdi26-upfuzz.pdf
-* Vicious Cycles in Distributed Software Systems: https://www.cs.purdue.edu/homes/lintan/publications/vc-ase23.pdf
-* Tamias: Feedback-Guided Systematic Concurrency Exploration for Transparent Distributed System Fuzzing: https://www.cs.purdue.edu/homes/pfonseca/papers/sosp26-tamias.pdf
+* __Vicious Cycles in Distributed Software Systems__: https://www.cs.purdue.edu/homes/lintan/publications/vc-ase23.pdf
+* __Tamias__: Feedback-Guided Systematic Concurrency Exploration for Transparent Distributed System Fuzzing: https://www.cs.purdue.edu/homes/pfonseca/papers/sosp26-tamias.pdf
 
 __Fair Pricing and Allocation__
-* Crowdshipping: https://onlinelibrary.wiley.com/doi/10.1002/joom.70046
-* Envy-free dynamic pricing schemes: https://arxiv.org/abs/2301.01529
-* Dynamic access pricing control for fair and stable resource sharing: https://arxiv.org/pdf/2507.17939
+* __Crowdshipping__: https://onlinelibrary.wiley.com/doi/10.1002/joom.70046
+* __Envy-free dynamic pricing schemes__: https://arxiv.org/abs/2301.01529
+* __Dynamic access pricing control for fair and stable resource sharing__: https://arxiv.org/pdf/2507.17939
