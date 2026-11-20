@@ -100,13 +100,13 @@ __VECTOR DBS__
 * Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search: https://arxiv.org/abs/2510.05975
 
 __Large scale Data Processing__
-* __Bigtable__: A Distributed Storage System for Structured Data : https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
+* Bigtable: A Distributed Storage System for Structured Data : https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
 * Clickhouse Paper: https://www.vldb.org/pvldb/vol17/p3731-schulze.pdf
 * __Lakehouse__: https://www.cs.cmu.edu/~15721-f25/papers/Lakehouse.pdf
-* Advanced Query processing in Lakehouse: https://www.cs.cmu.edu/~15721-f25/papers/AQP_in_Lakehouse.pdf
+* __Advanced Query processing in Lakehouse__: https://www.cs.cmu.edu/~15721-f25/papers/AQP_in_Lakehouse.pdf
 * Snowflake: https://www.cs.cmu.edu/~15721-f25/papers/Snowflake_Disaggregated.pdf
 * BigLake: https://www.cs.cmu.edu/~15721-f25/papers/BigLake.pdf
-* __Dremel__: https://www.cs.cmu.edu/~15721-f25/papers/Dremel.pdf
+* Dremel: https://www.cs.cmu.edu/~15721-f25/papers/Dremel.pdf
 
 __TIME SERIES DB__
 * __Six Dimensions of benchmarking Time Series Database__: https://arxiv.org/pdf/2608.01459
@@ -128,7 +128,7 @@ __Root Cause Analysis ALL__
 
 __LOG ANALYSIS__
 * __When Sampling Lies__: Trustworthy Performance Profiling for Flat Workloads with Blink (Operational Systems): https://www.usenix.org/system/files/osdi26-devsot.pdf
-* Be Conservative: Enhancing Failure Diagnosis with Proactive Logging: https://drive.google.com/file/d/1VTxeHtTA_aN72mlw4jVttEgbxMlUIzYa/view
+* __Be Conservative: Enhancing Failure Diagnosis with Proactive Logging__: https://drive.google.com/file/d/1VTxeHtTA_aN72mlw4jVttEgbxMlUIzYa/view
 * Simple Testing Can Prevent Most Critical Failures: https://www.eecg.utoronto.ca/~yuan/papers/failure_analysis_osdi14.pdf
 * __μSlope__: High Compression and Fast Search on Semi-Structured Logs: https://www.usenix.org/system/files/osdi24-wang-rui.pdf
 
