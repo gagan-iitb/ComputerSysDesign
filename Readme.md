@@ -111,6 +111,7 @@ __Large scale Data Processing__
 __TIME SERIES DB__
 * __Six Dimensions of benchmarking Time Series Database__: https://arxiv.org/pdf/2608.01459
 * Survey of Time Series DB: https://nora.nerc.ac.uk/id/eprint/527832/7/N527832CR.pdf
+  
 __QUERY optimization__
 * Join Ordering: https://arxiv.org/pdf/2502.15181
 * __Query Optimizers__: https://www.cs.cmu.edu/~15721-f25/papers/ML_QO_vs_AQP.pdf
