@@ -115,6 +115,7 @@ __TIME SERIES DB__
 __QUERY optimization__
 * __Join Ordering__: https://arxiv.org/pdf/2502.15181
 * __Query Optimizers__: https://www.cs.cmu.edu/~15721-f25/papers/ML_QO_vs_AQP.pdf
+* Lecture slides on the topic: https://docs.google.com/presentation/d/11mfO9izL2XnZ6m02WRvdEwC49NaZZnNzhB-R9uq8nY0/edit?slide=id.p1#slide=id.p1
 
 __Geospatial Indexing All__
 * __Geospatial Indexing__: https://h3geo.org/docs/
