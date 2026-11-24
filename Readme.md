@@ -117,22 +117,28 @@ __QUERY optimization__
 * __Query Optimizers__: https://www.cs.cmu.edu/~15721-f25/papers/ML_QO_vs_AQP.pdf
 * Lecture slides on the topic: https://docs.google.com/presentation/d/11mfO9izL2XnZ6m02WRvdEwC49NaZZnNzhB-R9uq8nY0/edit?slide=id.p1#slide=id.p1
 
-__Geospatial Indexing All__
-* __Geospatial Indexing__: https://h3geo.org/docs/
-* https://s2geometry.io/
-* https://redis.io/glossary/geospatial-indexing/
-
-__Root Cause Analysis ALL__
-* __The Inflection Point Hypothesis__: A Principled Debugging Approach for Locating the Root Cause of a Failure: https://yonglezh-purdue.github.io/files/sosp19-kairux.pdf
-* __Relational Debugging__ --- Pinpointing Root Causes of Performance Problems: https://www.usenix.org/conference/osdi23/presentation/ren
-* __AURORA__: Statistical Crash Analysis for Automated Root Cause Explanation: https://www.usenix.org/conference/usenixsecurity20/presentation/blazytko
-
-
 __LOG ANALYSIS__
 * __When Sampling Lies__: Trustworthy Performance Profiling for Flat Workloads with Blink (Operational Systems): https://www.usenix.org/system/files/osdi26-devsot.pdf
 * __Be Conservative: Enhancing Failure Diagnosis with Proactive Logging__: https://drive.google.com/file/d/1VTxeHtTA_aN72mlw4jVttEgbxMlUIzYa/view
 * Simple Testing Can Prevent Most Critical Failures: https://www.eecg.utoronto.ca/~yuan/papers/failure_analysis_osdi14.pdf
 * __μSlope__: High Compression and Fast Search on Semi-Structured Logs: https://www.usenix.org/system/files/osdi24-wang-rui.pdf
+
+
+__Geospatial Indexing All__
+* __Geospatial Indexing__: https://h3geo.org/docs/
+* https://s2geometry.io/
+* https://redis.io/glossary/geospatial-indexing/
+__Fair Pricing and Allocation__
+* __Crowdshipping__: https://onlinelibrary.wiley.com/doi/10.1002/joom.70046
+* __Envy-free dynamic pricing schemes__: https://arxiv.org/abs/2301.01529
+* __Dynamic access pricing control for fair and stable resource sharing__: https://arxiv.org/pdf/2507.17939
+
+**Lecture slides on the topics:** https://docs.google.com/presentation/d/1WV7SZ0jEnkfDj_XLcadCt6l_ywqHcYG4KLI_p7Tal6M/edit?slide=id.h10806871ec724c30_3_16#slide=id.h10806871ec724c30_3_16
+
+__Root Cause Analysis ALL__
+* __The Inflection Point Hypothesis__: A Principled Debugging Approach for Locating the Root Cause of a Failure: https://yonglezh-purdue.github.io/files/sosp19-kairux.pdf
+* __Relational Debugging__ --- Pinpointing Root Causes of Performance Problems: https://www.usenix.org/conference/osdi23/presentation/ren
+* __AURORA__: Statistical Crash Analysis for Automated Root Cause Explanation: https://www.usenix.org/conference/usenixsecurity20/presentation/blazytko
 
 __DEBUGGING DISTRIBUTED SYSTEMS__
 * Demystifying the Fight Against Complexity: A Comprehensive Study of Live Debugging Activities in Production Cloud Systems: https://yonglezh-purdue.github.io/files/socc24-live-debugging-ppt.pdf
@@ -141,7 +147,3 @@ __DEBUGGING DISTRIBUTED SYSTEMS__
 * __Vicious Cycles in Distributed Software Systems__: https://www.cs.purdue.edu/homes/lintan/publications/vc-ase23.pdf
 * __Tamias__: Feedback-Guided Systematic Concurrency Exploration for Transparent Distributed System Fuzzing: https://www.cs.purdue.edu/homes/pfonseca/papers/sosp26-tamias.pdf
 
-__Fair Pricing and Allocation__
-* __Crowdshipping__: https://onlinelibrary.wiley.com/doi/10.1002/joom.70046
-* __Envy-free dynamic pricing schemes__: https://arxiv.org/abs/2301.01529
-* __Dynamic access pricing control for fair and stable resource sharing__: https://arxiv.org/pdf/2507.17939
